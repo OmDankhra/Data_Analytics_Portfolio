@@ -1,0 +1,626 @@
+sno,COMPLAINT ID,COMPLAINT DESCRIPTION,COMPLAINT TYPE,RECEIVED DATE,COMPLAINT DATE,COUNTY,CLOSED DATE,STATUS,ZIP CODE
+1,99816,"That there is an air quality issue in his area the last few days, not sure if it is weather related.",Air,2022-07-22,2022-07-22,Baltimore City,2022-07-29,Incident Closed-Managed,
+2,99815,He smells an industrial odor in the residential neighborhood.,Odor,2022-07-17,2022-07-17,Baltimore City,2022-07-29,Incident Closed-Managed,
+3,99814,He smells an industrial odor in the residential neighborhood.,Odor,2022-07-15,2022-07-15,Baltimore City,2022-07-29,Incident Closed-Managed,
+4,99813,Air quality in apartment from carpeting.,Fumes,2022-07-27,2022-07-27,Baltimore,,Incident Not Applicable to MDE,
+5,99801,Questions/ Concerns regarding neighbors fire pit.,"Air, Open Burning",2022-07-12,2022-07-12,Montgomery,,Referred to Outside Agency,
+6,99799,Unknown chemical outside of home is causing severe health issues.,"Air, Fumes",2022-07-18,2022-06-21,Montgomery,,Referred to Outside Agency,20902
+7,99798,Question about air vents,Other,2022-07-25,2022-07-25,Prince Georges,2022-07-25,Incident Closed-Managed,
+8,99791,Odor Complaint,Odor,2022-07-25,2022-07-17,Baltimore City,2022-07-17,Incident Closed - No further action,21224
+9,99786,Odor in area around Beachwood Road,Odor,2022-07-21,2022-07-18,Baltimore,,Under Investigation,21222
+10,99785,paint booth does not have proper safety requirements and ventilation,"Air, Fumes, Odor",2022-07-18,2022-06-29,Montgomery,2022-07-20,Incident Closed-Managed,20852
+11,99784,Paint booth is not vented and is affecting other tenants,"Air, Fumes, Odor",2022-07-18,2022-06-12,Montgomery,2022-07-20,Incident Closed-Managed,20852
+12,99783,He smells an industrial odor in the residential neighborhood.,Odor,2022-07-10,2022-07-10,Baltimore City,2022-07-20,Incident Closed-Managed,
+13,99782,He smells an industrial odor in the residential neighborhood.,Odor,2022-07-09,2022-07-09,Baltimore City,2022-07-20,Incident Closed-Managed,
+14,99781,He smells an industrial odor in the residential neighborhood.,Odor,2022-07-08,2022-07-08,Baltimore City,2022-07-20,Incident Closed-Managed,
+15,99780,He smells an industrial odor in the residential neighborhood.,Odor,2022-07-06,2022-07-06,Baltimore City,2022-07-20,Incident Closed-Managed,
+16,99779,loud noise in the Cheverly area,Other,2022-06-28,2022-06-28,Prince Georges,,Referred to Outside Agency,
+17,99778,strong gasoline smell in the area,Other,2022-07-18,2022-07-18,Prince Georges,,Referred to Outside Agency,
+18,99772,Dust from dragging horse track.,Fugitive Dust/Particulate Matter,2022-07-18,2022-06-05,Worcester,,Under Investigation,21851
+19,99771,Dust from dragging horse track,Fugitive Dust/Particulate Matter,2022-07-19,2022-06-05,Worcester,,Under Investigation,
+20,99769,Spray paint overspray.  No ground or air containment.  Containers and fuel cans not properly stored.,Air,2022-07-19,2022-07-19,Anne Arundel,2022-07-19,Incident Closed-No Violation Observed,21122
+21,99765,Asbestos in Building,Asbestos Complaint,2022-07-18,2022-07-13,Allegany,,Referred to ARA,21562
+22,99764,"HVAC Company discarding AC units, wrapped in camo tarps in the woods and fluids leaking.  Streams nearby.",Air,2022-07-18,2022-07-15,Anne Arundel,2022-07-15,Incident Closed - No further action,
+23,99760,Wants CO Detectors,Other,2022-07-13,2022-07-13,Allegany,2022-07-15,Incident Closed - No further action,
+24,99759,Open Burning House Debris,Open Burning,2022-07-13,2022-07-13,Garrett,,Referred to Outside Agency,21531
+25,99757,Fugitive Material from Tire Recycling Facility,Fugitive Dust/Particulate Matter,2022-06-29,2022-07-29,Allegany,2022-07-15,Incident Closed - No further action,21562
+26,99756,Unknown,Other,2022-06-27,2022-06-27,Allegany,2022-07-15,Incident Closed - No further action,21532
+27,99744,Air Quality,Air,2022-07-13,,Anne Arundel,2022-07-13,Incident Closed - No further action,
+28,99730,Burning loads of construction & demolition debris.,Air,2022-07-11,2022-07-08,Anne Arundel,2022-07-13,Incident Closed-Managed,21077
+29,99721,complainant making inquiry about idling law in Maryland,Other,2022-07-07,2022-07-07,Howard,2022-07-08,Incident Closed-Managed,
+30,99706,Odor in area around American Yeast on Beachwood Road,Odor,2022-05-29,2022-05-29,Baltimore,,Under Investigation,21222
+31,99705,Odor in area around American Yeast on Beachwood Road,Odor,2022-05-28,2022-05-28,Baltimore,,Under Investigation,21222
+32,99704,Odor in area around American Yeast plant on Beachwood Road.,Odor,2022-05-27,2022-05-27,Baltimore,,Under Investigation,21222
+33,99703,Cat urine odor from neighbors house.,Air,2022-07-06,2022-07-05,Anne Arundel,2022-07-06,Incident Closed-No Violation Observed,21108
+34,99702,Cat urine odor from neighbors house.,Air,2022-07-06,2022-07-05,Anne Arundel,2022-07-06,Incident Closed-No Violation Observed,21108
+35,99671,Odor Complaint,Odor,2022-06-27,2022-06-14,Baltimore City,2022-06-14,Incident Closed - No further action,21224
+36,99670,Odor Complaint,Odor,2022-06-27,2022-06-13,Baltimore City,2022-06-13,Incident Closed - No further action,21224
+37,99652,Open burning leaves.,Air,2022-06-21,2022-06-15,Anne Arundel,2022-06-21,Incident Closed - No further action,21225
+38,99651,He smells an industrial odor in the residential neighborhood.,Odor,2022-06-14,2022-06-14,Baltimore City,2022-06-21,Incident Closed-Managed,
+39,99650,He smells an industrial odor in the residential neighborhood.,Odor,2022-06-12,2022-06-12,Baltimore City,2022-06-21,Incident Closed-Managed,
+40,99649,He smells an industrial odor in the residential neighborhood.,Odor,2022-06-11,2022-06-11,Baltimore City,2022-06-21,Incident Closed-Managed,
+41,99648,Open burning of leaves at neighbors yard.,Air,2022-06-21,2022-06-15,Anne Arundel,2022-06-21,Incident Closed - No further action,
+42,99643,Dust From Demolition Project and Crusher on Site,Fugitive Dust/Particulate Matter,2022-06-15,2022-06-15,Allegany,,Under Investigation,21502
+43,99635,Odors from waterman spraying crab pots,Odor,2022-06-16,2022-06-16,Somerset,,Referred to Outside Agency,21824
+44,99563,Employer is allowing refrigerant release and also providing unsafe working conditions.,"Air, Air Pollutant Release",2022-06-09,2022-06-09,Montgomery,,Referred to Outside Agency,
+45,99561,An individual complained to the Governors Office regarding Georgia Avenue dry cleaners. The complaint was forwarded to the Air Quality Compliance Program.,"Air, Odor",2022-05-24,2022-05-11,Montgomery,2022-06-10,Incident Closed-Managed,20910
+46,99561,An individual complained to the Governors Office regarding Georgia Avenue dry cleaners. The complaint was forwarded to the Air Quality Compliance Program.,"Air, Odor",2022-05-24,2022-05-11,Montgomery,2022-06-10,Incident Closed-Managed,20910
+47,99561,An individual complained to the Governors Office regarding Georgia Avenue dry cleaners. The complaint was forwarded to the Air Quality Compliance Program.,"Air, Odor",2022-05-24,2022-05-11,Montgomery,2022-06-10,Incident Closed-Managed,20910
+48,99561,An individual complained to the Governors Office regarding Georgia Avenue dry cleaners. The complaint was forwarded to the Air Quality Compliance Program.,"Air, Odor",2022-05-24,2022-05-11,Montgomery,2022-06-10,Incident Closed-Managed,20910
+49,99560,There is a demolition occurring in the area creating dust.,Fugitive Dust/Particulate Matter,2022-06-03,2022-06-03,Baltimore City,2022-06-09,Incident Closed-Managed,
+50,99559,He smells an industrial odor in the residential neighborhood.,Odor,2022-06-02,2022-06-02,Baltimore City,2022-06-09,Incident Closed-Managed,
+51,99558,He smells an industrial odor in the residential neighborhood.,Odor,2022-05-26,2022-05-26,Baltimore City,2022-06-09,Incident Closed-Managed,
+52,99557,He smells an industrial odor in the residential neighborhood.,Odor,2022-05-25,2022-05-25,Baltimore City,2022-06-09,Incident Closed-Managed,
+53,99551,Concerns of Freon in the area,Other,2022-06-06,2022-06-06,Not Yet Determined,2022-06-08,Incident Closed-Managed,
+54,99550,Playground fire occurred at a playground with recycled tire mulch. Concerned with toxins associated with the recycled tires.,"Fumes, Open Burning, Smoke",2022-06-06,2022-06-06,Montgomery,,Referred to Outside Agency,20837
+55,99542,Smoke from neighbor clearing and burning trees & brush from his 3 acre land.,Air,2022-06-06,2022-06-06,Anne Arundel,2022-06-09,Incident Closed-Managed,21035
+56,99538,Feces odor coming from a homeowners yard at 1215 Thompson Avenue.  Property has goats and chickens.  Residential area with nearby/close homes.,Air,2022-06-06,2022-06-03,Anne Arundel,,Referred to Outside Agency,21144
+57,99537,Open Burning,Open Burning,2022-06-03,2022-06-03,Washington,,Referred to Outside Agency,21750
+58,99528,Dust from paving,Fugitive Dust/Particulate Matter,2022-06-02,2022-06-02,Baltimore,,Under Investigation,
+59,99525,Odor at the back of her house and near Marley Creek.,Air,2022-06-01,2022-06-01,Anne Arundel,2022-06-02,Incident Closed-Managed,21060
+60,99524,Odor from mosquito and bug spray company spraying at next door neighbors yard.,Air,2022-06-01,2022-05-26,Anne Arundel,2022-05-26,Incident Closed-No Violation Observed,21144
+61,99521,Bat in my Attic,Other,2022-05-31,2022-05-31,Allegany,2022-06-01,Incident Closed - No further action,21502
+62,99516,Open burning in fire pit too close to complainants house.,Open Burning,2022-05-31,2022-05-30,Wicomico,2022-06-01,Incident Closed-No Violation Observed,21804
+63,99514,Odors from composting facility,Odor,2022-05-24,2022-05-24,Caroline,,Referred to LMA,21660
+64,99513,Odor inside complainants home.,Odor,2022-05-23,2022-05-23,Not Yet Determined,,Incident Not Applicable to MDE,
+65,99512,Open burning of recreational fire creating nuisance.,Open Burning,2022-05-23,2022-05-23,Worcester,,Referred to Outside Agency,21811
+66,99511,"Burning of refrigerator, HVAC equipment and oils and plastic.",Open Burning,2022-05-20,2022-05-20,Somerset,2022-05-23,Incident Closed-No Violation Observed,21821
+67,99509,Gaithersburg High School has vehicle paint booth that emits odor throughout building.,"Fumes, Odor",2022-05-27,2022-02-09,Montgomery,,Referred to Outside Agency,20877
+68,99508,Smoke from burning yard waste at neighbors property,Open Burning,2022-05-24,2022-05-20,Montgomery,,Referred to Outside Agency,20904
+69,99507,Concerns regarding activities at Owens Landing Marina including dust.,Fugitive Dust/Particulate Matter,2022-05-19,2022-05-19,Cecil,,Referred to WMA,21903
+70,99506,Contractor is grit basting bridge without containment.,Fugitive Dust/Particulate Matter,2022-05-12,2022-05-12,Baltimore City,2022-06-09,Incident Closed-Managed,
+71,99505,There is a chemical odor coming from her pantry and does not want to turn on oven.,Odor,2022-05-20,2022-05-20,Baltimore City,2022-05-27,Incident Closed - No further action,
+72,99504,He smells an industrial odor in the residential neighborhood.,Odor,2022-05-20,2022-05-20,Baltimore City,2022-05-27,Incident Closed-Managed,
+73,99503,"BGE gas line has a leak for 15 years, they are aware of the leak and have not repaired the line.",Air,2022-05-19,2022-05-19,Baltimore City,2022-05-27,Incident Closed - No further action,
+74,99499,He smells an industrial odor in the residential neighborhood.,Odor,2022-05-19,2022-05-19,Baltimore City,2022-05-25,Incident Closed-Managed,
+75,99498,He smells an industrial odor in the residential neighborhood.,Odor,2022-05-18,2022-05-18,Baltimore City,2022-05-25,Incident Closed-Managed,
+76,99497,He smells an industrial odor in the residential neighborhood.,Odor,2022-05-17,2022-05-17,Baltimore City,2022-05-25,Incident Closed-Managed,
+77,99496,She wanted information if air is heavily polluted in Baltimore City.,Air,2022-05-16,2022-05-16,Baltimore City,2022-05-27,Incident Closed - No further action,
+78,99495,He smells an industrial odor in the residential neighborhood.,Odor,2022-05-15,2022-05-15,Baltimore City,2022-05-25,Incident Closed-Managed,
+79,99494,He smells an industrial odor in the residential neighborhood.,Odor,2022-05-14,2022-05-14,Baltimore City,2022-05-25,Incident Closed-Managed,
+80,99493,He smells an industrial odor in the residential neighborhood.,Odor,2022-05-12,2022-05-12,Baltimore City,2022-05-25,Incident Closed-Managed,
+81,99491,concern of sediments in Bladensburg water front,Other,2022-05-24,2022-05-22,Prince Georges,2022-05-24,Incident Closed-Managed,
+82,99483,Mold in complainants apartment.,Other,2022-05-20,2022-05-20,Baltimore,,Incident Not Applicable to MDE,
+83,99481,smell in apartment unit,Other,2022-05-18,2022-05-18,Prince Georges,2022-05-20,Incident Closed-Managed,
+84,89463,Odor Complaint,Odor,2022-05-06,2022-05-06,Dorchester,2022-05-06,Incident Closed - No further action,21835
+85,89462,Odor,Odor,2022-05-11,2022-05-11,Caroline,,Referred to LMA,21660
+86,89459,Neighbor is burning bamboo,Smoke,2022-05-11,2022-05-11,Harford,2022-05-19,Incident Closed-Managed,
+87,89456,Neighbor is burning bamboo,Smoke,2022-05-11,,Harford,2022-05-12,Incident Closed - No further action,
+88,89445,He smells an industrial odor in the residential neighborhood.,Odor,2022-05-09,2022-05-09,Baltimore City,2022-05-10,Incident Closed-Managed,
+89,89444,He smells an industrial odor in the residential neighborhood.,Odor,2022-05-04,2022-05-04,Baltimore City,2022-05-10,Incident Closed-Managed,
+90,89443,He smells an industrial odor in the residential neighborhood.,Odor,2022-05-01,2022-05-01,Baltimore City,2022-05-10,Incident Closed-Managed,
+91,89436,Odor Complaint,Odor,2022-03-30,2022-03-30,Dorchester,2022-03-30,Incident Closed - No further action,21835
+92,89435,Odor Complaint,Odor,2022-02-25,2022-02-24,Dorchester,2022-02-24,Incident Closed - No further action,21835
+93,89433,Firepit in front parking lot at her townhouse neighborhood.,Air,2022-05-06,2022-05-04,Anne Arundel,2022-05-06,Incident Closed-No Violation Observed,
+94,89432,Odor in home,Odor,2022-05-04,2022-05-04,Baltimore,,Incident Not Applicable to MDE,
+95,89430,concerns of neighbor burning log of woods,Other,2022-05-03,2022-05-03,Howard,,Referred to Outside Agency,
+96,89416,Piles of old furniture believed  going to be open burned by furniture store.,Open Burning,2022-04-29,2022-04-29,Caroline,2022-05-03,Incident Closed-No Violation Observed,21632
+97,89413,Demolition occurring next-door to American Plant Nursery is causing severe dust issues.,Fugitive Dust/Particulate Matter,2022-04-29,2022-04-29,Montgomery,,Referred to Outside Agency,20816
+98,89412,Smoke from open burning,Smoke,2022-05-03,2022-04-22,Somerset,,Under Investigation,21817
+99,89408,Concern of Loud noise in the area,Other,2022-05-01,2022-05-01,Prince Georges,,Referred to Outside Agency,
+100,89407,concerns of smell in her surroundings,Other,2022-04-29,2022-04-29,Prince Georges,,Referred to Outside Agency,
+101,89406,concerns of smell in her surroundings,Other,2022-04-29,2022-04-29,Prince Georges,,Referred to Outside Agency,
+102,89404,concerns of smell in her surroundings,Other,2022-04-28,2022-04-28,Prince Georges,,Referred to Outside Agency,
+103,89402,Odor,Odor,2022-04-27,2022-04-26,Harford,2022-04-29,Incident Closed-Managed,
+104,89401,Odor inside apartment.,Air,2022-04-29,2022-04-28,Anne Arundel,,Incident Not Applicable to MDE,21076
+105,89400,Odor from septic tank.,Air,2022-04-29,2022-04-28,Anne Arundel,2022-04-29,Incident Closed-No Violation Observed,21122
+106,89399,Smoke from open burning.,Air,2022-04-29,2022-04-28,Anne Arundel,2022-04-29,Incident Closed-Managed,
+107,89397,He smells an industrial odor in the residential neighborhood.,Odor,2022-04-24,2022-04-24,Baltimore City,2022-04-28,Incident Closed-Managed,
+108,89396,He smells an industrial odor in the residential neighborhood.,Odor,2022-04-22,2022-04-22,Baltimore City,2022-04-28,Incident Closed-Managed,
+109,89395,He smells an industrial odor in the residential neighborhood.,Odor,2022-04-20,2022-04-20,Baltimore City,2022-04-28,Incident Closed-Managed,
+110,89392,Citizen had questions re burning yard debris from storm,Other,2022-04-26,2022-04-26,St. Marys,2022-04-27,Incident Closed - No further action,
+111,89388,Toxic fumes/odor from the basement in his house.,Air,2022-04-27,2022-04-22,Anne Arundel,,Incident Not Applicable to MDE,
+112,89387,dust on car in the area from the Quarry,Other,2022-04-22,2022-04-22,Howard,,Under Investigation,20794
+113,79382,Automotive spray painting fumes occurring in residential neighborhood.,Air,2022-04-21,2022-04-20,Anne Arundel,2022-04-21,Incident Closed-Managed,
+114,79380,Indoor air issue.,Air,2022-04-21,2022-04-19,Anne Arundel,,Incident Not Applicable to MDE,
+115,79379,Indoor Air,Odor,2022-04-18,2022-04-18,Allegany,2022-04-21,Incident Closed - No further action,21502
+116,79378,He smells an industrial odor in the residential neighborhood.,Odor,2022-04-15,2022-04-15,Baltimore City,2022-04-20,Incident Closed-Managed,
+117,79377,Neighbor farm is spreading lime on the field creating visible emissions.,Fugitive Dust/Particulate Matter,2022-04-14,2022-04-14,Calvert,2022-04-20,Incident Closed-Managed,
+118,79376,He smells an industrial odor in the residential neighborhood.,Odor,2022-04-13,2022-04-13,Baltimore City,2022-04-20,Incident Closed-Managed,
+119,79375,He smells an industrial odor in the residential neighborhood.,Odor,2022-04-12,2022-04-12,Baltimore City,2022-04-20,Incident Closed-Managed,
+120,79374,He smells an industrial odor in the residential neighborhood.,Odor,2022-04-11,2022-04-11,Baltimore City,2022-04-20,Incident Closed-Managed,
+121,79373,He smells an industrial odor in the residential neighborhood.,Odor,2022-04-06,2022-04-06,Baltimore City,2022-04-20,Incident Closed-Managed,
+122,79371,He smells an industrial odor in the residential neighborhood.,Odor,2022-04-05,2022-04-05,Baltimore City,2022-04-20,Incident Closed-Managed,
+123,79370,He smells an industrial odor in the residential neighborhood.,Odor,2022-04-04,2022-04-04,Baltimore City,2022-04-20,Incident Closed-Managed,
+124,79369,She has furniture with mold.,ARA AQCP non-regulated entity,2022-04-01,2022-04-01,Baltimore City,2022-04-20,Incident Closed - No further action,
+125,79368,"He is hearing a humming noise, wants someone to inspect the area.",Noise Complaint,2022-04-01,2022-04-01,Baltimore City,2022-04-20,Incident Closed - No further action,
+126,79364,Smoke from open burning of leaves.,Air,2022-04-19,2022-04-14,Anne Arundel,2022-04-19,Incident Closed - No further action,
+127,79363,"Smoke from open burning of yard waste debris, tree branches, leaves.",Air,2022-04-19,2022-04-14,Anne Arundel,2022-04-19,Incident Closed - No further action,
+128,79362,"Smoke from open burning of trash, boxes, plastic & cans.",Air,2022-04-19,2022-04-14,Anne Arundel,2022-04-29,Incident Closed - No further action,21061
+129,79361,Dust or opacity observed from direction of facilities and covering over the RT. 70 highway in Frederick.,Air,2022-04-19,2022-04-12,Frederick,2022-04-19,Incident Closed-Managed,
+130,79360,Sandblasting dust at the Gables Paint Shop.,Air,2022-04-19,2022-04-12,Frederick,,Under Investigation,
+131,79359,Indoor air quality/odor inside the Heritage Harbor Recreation Center.,Air,2022-04-19,2022-04-11,Anne Arundel,,Incident Not Applicable to MDE,
+132,79358,Dust or opacity cloud observed from the direction of facilities and over RT. 70 highway.,Air,2022-04-19,2022-04-11,Frederick,2022-04-19,Incident Closed - No further action,
+133,79355,Noise,Noise Complaint,2022-04-13,2022-04-13,Harford,,Incident Not Applicable to MDE,
+134,79343,Spray painting in neighbors shed,Other,2022-04-14,2022-04-14,Prince Georges,,Under Investigation,20707
+135,79337,facility painting without paint booth,Other,2022-04-07,2022-04-07,Prince Georges,2022-06-08,Incident Closed-Managed,
+136,79336,painting without paint booth,Other,2022-04-07,2022-04-07,Prince Georges,,Under Investigation,
+137,79334,painting without a paint booth,Other,2022-04-07,2022-04-07,Prince Georges,2022-06-08,Incident Closed-Managed,
+138,79333,Town of Manchester referral. Inquiring about requirements of hemp pharmacy manufacturing.,"Air, Fumes, Odor",2022-04-01,2022-04-01,Carroll,2022-04-15,Incident Closed-Managed,21102
+139,79324,Odor coming from Honeygo Reclamation Center,Odor,2022-04-11,,Baltimore,2022-04-14,Incident Closed-No Violation Observed,21128
+140,79322,Work w/o Permits or Approval,Other,2022-04-05,2022-04-05,Allegany,,Referred to WMA,
+141,79311,Concerns regarding neighbor spraying herbicides.,"Agricultural, Air",2022-04-01,2022-04-01,Carroll,,Referred to Outside Agency,21074
+142,79310,Unknown,Other,2022-04-04,,Baltimore,2022-04-14,Incident Closed - No further action,
+143,79309,Outdoor Wood Burner,Smoke,2022-03-30,2022-03-30,Washington,2022-04-05,Incident Closed - No further action,
+144,79308,Open Burning,Open Burning,2022-03-27,,Washington,2022-06-21,Incident Closed-Managed,21742
+145,79297,Noise in between walls inside his house.,Air,2022-04-04,2022-04-01,Anne Arundel,2022-04-04,Incident Closed - No further action,
+146,79296,Mold,Air,2022-04-04,2022-04-01,Anne Arundel,,Incident Not Applicable to MDE,
+147,79288,Fugitive dust,Fugitive Dust/Particulate Matter,2022-03-25,,Harford,2022-04-06,Incident Closed-No Violation Observed,21085
+148,79284,Concern of exhaust pipe near window,Other,2022-03-30,2022-03-30,Prince Georges,2022-03-30,Incident Closed-Managed,
+149,79265,Question re air quality,Air,2022-03-24,,Baltimore,2022-03-28,Incident Closed-Managed,
+150,79264,Neighboring farmer is burning plastics from his field.,Fumes,2022-03-25,2022-03-25,Baltimore,,Referred to Outside Agency,
+151,79260,Smoke from chimney stack at the warehouse.  Dumpsters outside.  Concern of types of materials being burned.,Air,2022-03-25,2022-03-23,Charles,,Referred to LMA,20601
+152,79259,Smoke from firepit open burning.,Air,2022-03-25,2022-03-23,Anne Arundel,2022-04-06,Incident Closed - No further action,
+153,79254,He smells an industrial odor in the residential neighborhood.,Odor,2022-03-18,2022-03-18,Baltimore City,2022-03-24,Incident Closed-Managed,
+154,79253,He smells an industrial odor in the residential neighborhood.,Odor,2022-03-17,2022-03-17,Baltimore City,2022-03-24,Incident Closed-Managed,
+155,79252,He smells an industrial odor in the residential neighborhood.,Odor,2022-03-16,2022-03-16,Baltimore City,2022-03-24,Incident Closed-Managed,
+156,79251,He smells an industrial odor in the residential neighborhood.,Odor,2022-03-11,2022-03-11,Baltimore City,2022-03-24,Incident Closed-Managed,
+157,79250,He smells an industrial odor in the residential neighborhood.,Odor,2022-03-15,2022-03-15,Baltimore City,2022-03-24,Incident Closed-Managed,
+158,79249,He smells an industrial odor in the residential neighborhood.,Odor,2022-03-09,2022-03-09,Baltimore City,2022-03-24,Incident Closed-Managed,
+159,79244,concern of exhaust pipe in apartment,Other,2022-03-21,2022-03-21,Prince Georges,,Under Investigation,
+160,79240,Smoke from neighbors backyard firepit.,Air,2022-03-23,2022-03-21,Anne Arundel,2022-03-23,Incident Closed - No further action,
+161,79238,Mold issues inside her apartment.,Air,2022-03-23,2022-03-18,Anne Arundel,,Incident Not Applicable to MDE,
+162,79229,Exhaust pipe affecting tenant,Other,2022-03-15,2022-03-15,Prince Georges,,Referred to Outside Agency,
+163,79225,Complainant detects industrial odor and alleges Valley Protein.,Air,2022-03-17,2022-03-17,Anne Arundel,2022-03-21,Incident Closed-No Violation Observed,
+164,79213,Dust particles from sandblasting.,Fugitive Dust/Particulate Matter,2022-03-14,2022-03-14,Wicomico,,Under Investigation,21801
+165,79209,Odor from Burning Used Oil,Odor,2022-03-07,,Allegany,2022-06-21,Incident Closed-Managed,21532
+166,79208,Spray Painting and Moving Heavy Equipment,Other,2022-03-03,,Washington,,Referred to WMA,21713
+167,79207,Black Smoke and the smell of Aluminum that happens periodically.,"Odor, Smoke",2022-03-11,2022-03-10,Cecil,,Under Investigation,21921
+168,79205,He smells an industrial odor in the residential neighborhood.,Odor,2022-03-08,2022-03-08,Baltimore City,2022-03-10,Incident Closed-Managed,
+169,79204,He smells an industrial odor in the residential neighborhood.,Odor,2022-03-05,2022-03-05,Baltimore City,2022-03-10,Incident Closed-Managed,
+170,79202,Odor in Neighborhood around plant,Odor,2022-02-17,2022-02-17,Frederick,2022-03-10,Incident Closed-Managed,21777
+171,79201,Complainant wants his indoor air tested.,Air,2022-03-07,,Baltimore,,Incident Not Applicable to MDE,
+172,79200,Smoke from neighbors outdoor furnace.,Air,2022-03-09,2022-03-07,Frederick,2022-03-17,Incident Closed - No further action,
+173,79199,Burning leaves and grass.,Air,2022-03-09,2022-03-07,Anne Arundel,2022-04-06,Incident Closed - No further action,
+174,79174,Neighbor has a van with signs that say radioactive on the side of it in front of his house.,"Other, Radiological Health Complaint",2022-03-03,2022-03-03,Baltimore,2022-03-04,Incident Closed-Managed,
+175,79168,Mold/mildew in apartment.,Air,2022-03-03,2022-03-03,Anne Arundel,,Incident Not Applicable to MDE,
+176,79167,Concerns regarding dust caused by brick repointing on the exterior of building.,"Air, Fugitive Dust/Particulate Matter",2022-03-01,2022-03-01,Montgomery,,Referred to Outside Agency,20902
+177,79165,He smells an industrial odor in the residential neighborhood.,Odor,2022-03-01,2022-03-01,Baltimore City,2022-03-02,Incident Closed-Managed,
+178,79164,That there is burning related odor in the Harmony Court area.,Odor,2022-02-16,2022-02-16,Baltimore City,2022-03-02,Incident Closed - No further action,
+179,79163,He smells an industrial odor in the residential neighborhood.,Odor,2022-02-21,2022-02-21,Baltimore City,2022-03-02,Incident Closed-Managed,
+180,79158,A large boom noise in the Cheverly  area.,Other,2022-02-27,2022-02-27,Prince Georges,,Referred to Outside Agency,
+181,79156,About 100 helium balloons were released into the atmosphere.,Air,2022-02-28,2022-02-22,Anne Arundel,,Referred to LMA,21146
+182,79155,Open burning vinyl siding,Open Burning,2022-02-22,2022-02-21,Dorchester,2022-02-23,Incident Closed-Managed,21613
+183,79154,Company is painting/priming steel I-beams outside,Other,2022-02-22,2022-02-21,Dorchester,2022-02-25,Incident Closed-No Violation Observed,21613
+184,79145,Odor Complaint,Odor,2022-02-16,2022-02-16,Dorchester,2022-02-16,Incident Closed - No further action,21835
+185,79144,Odor Complaint,Odor,2022-02-11,2022-02-11,Dorchester,2022-02-11,Incident Closed - No further action,21835
+186,79143,Odor Complaint,Odor,2022-02-09,2022-02-09,Dorchester,2022-02-09,Incident Closed - No further action,21835
+187,79142,Odor Complaint,Odor,2022-02-03,2022-02-03,Dorchester,2022-02-03,Incident Closed - No further action,21835
+188,79141,Odor Complaint,Odor,2022-02-03,2022-02-03,Dorchester,2022-02-03,Incident Closed - No further action,21835
+189,79136,Dust that contains silica material coming from concrete plant,Fugitive Dust/Particulate Matter,2022-02-18,2022-02-17,Queen Annes,2022-02-18,Incident Closed-No Violation Observed,21658
+190,79134,He smells an industrial odor in the residential neighborhood.,Odor,2022-02-16,2022-02-16,Baltimore City,2022-02-18,Incident Closed-Managed,
+191,79133,There is a ship off loading cement which is causing dust to drop on cars below.,Fugitive Dust/Particulate Matter,2022-02-15,2022-02-15,Baltimore City,2022-03-08,Incident Closed-No Violation Observed,
+192,79132,He smells an industrial odor in the residential neighborhood.,Odor,2022-02-11,2022-02-11,Baltimore City,2022-02-18,Incident Closed-Managed,
+193,79131,He smells an industrial odor in the residential neighborhood.,Odor,2022-02-09,2022-02-09,Baltimore City,2022-02-18,Incident Closed-Managed,
+194,79130,He smells an industrial odor in the residential neighborhood.,Odor,2022-02-07,2022-02-07,Baltimore City,2022-02-18,Incident Closed-Managed,
+195,79129,Complaint forwarded from EPA Region 3 regarding various concerns at Ritchie Brothers Auctioneers,Air,2022-02-17,2022-02-03,Cecil,,Referred to LMA,21901
+196,79129,Complaint forwarded from EPA Region 3 regarding various concerns at Ritchie Brothers Auctioneers,Air,2022-02-17,2022-02-03,Cecil,,Referred to LMA,21901
+197,79127,Air quality in apartment building.,Other,2022-02-16,,Baltimore,,Incident Not Applicable to MDE,
+198,79125,complaint not given,Other,2022-02-16,2022-02-16,Howard,2022-02-18,Incident Closed-Managed,
+199,69124,Mold/mildew within her condominium and effecting their health.  Their facilities has sprayed to try to rid the mold.,Air,2022-02-17,2022-02-17,Not Yet Determined,2022-02-17,Incident Closed - No further action,
+200,69123,"Poor air quality and odor in the vicinity of the MVA, 21060 and Brooklyn Park, 21225 .",Air,2022-02-17,2022-02-17,Anne Arundel,2022-02-28,Incident Closed-No Violation Observed,
+201,69122,"Burning tire odor near 6413 Davis Road, residential area.",Air,2022-02-17,2022-02-11,Frederick,2022-02-17,Incident Closed-No Violation Observed,
+202,69118,Odor Complaint,Odor,2022-02-03,2022-02-03,Baltimore City,2022-02-03,Incident Closed - No further action,
+203,69117,Odor Complaint,Odor,2022-01-30,2022-01-30,Baltimore City,2022-01-30,Incident Closed - No further action,
+204,69116,Odor Complaint,Odor,2022-01-27,2022-01-27,Baltimore City,2022-01-27,Incident Closed - No further action,
+205,69115,Odor Complaint,Odor,2022-01-08,2022-01-08,Baltimore City,2022-01-08,Incident Closed - No further action,
+206,69114,Odor Complaint,Odor,2022-01-06,2022-01-05,Baltimore City,2022-01-05,Incident Closed - No further action,
+207,69108,Strong odor in Cheverly area,Other,2022-02-11,2022-02-11,Prince Georges,2022-03-09,Incident Closed-Managed,
+208,69104,Fumes from neighbor painting cars,Fumes,2022-02-11,,St. Marys,2022-02-15,Incident Closed-No Violation Observed,
+209,69101,Emissions from crematory stack for one minute.,Air,2022-02-11,2022-02-09,Charles,2022-02-10,Incident Closed-Managed,
+210,69098,Mud and dirt on road,Other,2022-02-02,,Baltimore,2022-02-10,Incident Closed-No Violation Observed,
+211,69090,Indoor Air Quality,Other,2022-02-07,2022-02-07,Allegany,,Referred to Outside Agency,21521
+212,69088,Indoor Air Quality,Other,2022-02-04,2022-02-04,Allegany,,Incident Not Applicable to MDE,
+213,69087,Excessive black smoke and odor for 10-15 minutes from the crematory stack.,Air,2022-02-08,2022-02-01,Charles,2022-02-10,Incident Closed-Managed,
+214,69083,Odor/ Fumes are coming into the Westminster Motor Vehicle Administration (MVA) building causing health concerns.,"Air, Fumes, Odor, Open Burning",2022-02-01,2022-02-01,Carroll,,Referred to LMA,21157
+215,69081,Odors/ Fumes coming into the Westminster Motor Vehicle Administration (MVA) are causing health concerns.,"Air, Fumes, Odor, Open Burning",2022-02-01,2022-02-01,Carroll,,Referred to LMA,21157
+216,69080,Smoke,Smoke,2022-02-03,,Garrett,2022-04-05,Incident Closed - No further action,21536
+217,69079,He smells an industrial odor in the residential neighborhood.,Odor,2022-02-02,2022-02-02,Baltimore City,2022-02-03,Incident Closed-Managed,
+218,69078,He smells an industrial odor in the residential neighborhood.,Odor,2022-02-01,2022-02-01,Baltimore City,2022-02-03,Incident Closed-Managed,
+219,69077,He smells an industrial odor in the residential neighborhood.,Odor,2022-01-31,2022-01-31,Baltimore City,2022-02-03,Incident Closed-Managed,
+220,69076,He smells an industrial odor in the residential neighborhood.,Odor,2022-01-30,2022-01-30,Baltimore City,2022-02-03,Incident Closed-Managed,
+221,69073,Black smoke from crematory stack observed for ~ 15 minutes each on both Monday & Tuesday.,Air,2022-02-02,2022-02-02,Charles,2022-02-23,Incident Closed-Managed,20695
+222,69072,He smells an industrial odor in the residential neighborhood.,Odor,2022-01-22,2022-01-22,Baltimore City,2022-02-02,Incident Closed-Managed,
+223,69071,He smells an industrial odor in the residential neighborhood.,Odor,2022-01-09,2022-01-09,Baltimore City,2022-02-02,Incident Closed-Managed,
+224,69067,Smoke from Furnace,Smoke,2022-01-25,,Allegany,2022-03-11,Incident Closed-No Violation Observed,21502
+225,69065,Concerned with health effects of neighbors fireplace smoke and tobacco smoke.,"Odor, Smoke",2022-01-27,2022-01-27,Montgomery,,Referred to Outside Agency,20878
+226,69063,vehicle emission controls,Air,2022-01-28,2022-01-20,Not Yet Determined,2022-01-21,Incident Closed - No further action,
+227,69062,Dust on road from trucks,Fugitive Dust/Particulate Matter,2022-01-26,2022-01-26,Harford,2022-01-27,Incident Closed-No Violation Observed,
+228,69061,Fumes and odors from an oil company.,Fumes,2022-01-26,2022-01-26,Baltimore,2022-02-01,Incident Closed - No further action,21227
+229,69059,Dust getting on their house and cars from a concrete recycling activity.,Air,2022-01-27,2022-01-26,Frederick,2022-01-31,Incident Closed-No Violation Observed,
+230,69058,Fireplace smoke and odor from neighbors. Also concerned about tobacco smoke from neighboring units coming into the condo.,"Odor, Smoke",2022-01-25,2022-01-25,Montgomery,,Referred to Outside Agency,20878
+231,69052,Neighbor is burning fires,Smoke,2022-01-25,2022-01-25,Baltimore,,Referred to Outside Agency,
+232,69051,Neighbor is burning wood in a shed to keep his cats warm.,Smoke,2022-01-20,2022-01-20,Baltimore,2022-01-25,Incident Closed-Managed,
+233,69049,Odor Complaint,Odor,2021-10-30,2021-10-30,Baltimore City,2021-10-30,Incident Closed - No further action,
+234,69047,Unknown.  Called.  Waiting for response.,Air,2022-01-21,2022-01-20,Not Yet Determined,,Under Investigation,
+235,59045,Mold in Apartment,Other,2022-01-14,2022-01-14,Howard,,Referred to Outside Agency,
+236,59043,Trucks Idling around Cabin branch road,Other,2022-01-19,2022-01-19,Prince Georges,2022-01-19,Incident Closed-Managed,
+237,59036,Dust from Sand Blasting Paint,Fugitive Dust/Particulate Matter,2022-01-07,2021-12-20,Washington,2022-07-18,Incident Closed-Managed,21742
+238,59035,Fibers from the heating system in his condo are bothering the complainant.,ARA AQCP non-regulated entity,2022-01-06,2022-01-06,Baltimore,,Incident Not Applicable to MDE,
+239,59030,He smells an industrial odor in the residential neighborhood.,Odor,2022-01-04,2022-01-04,Baltimore City,2022-01-12,Incident Closed-Managed,
+240,59029,He smells an industrial odor in the residential neighborhood.,Odor,2022-01-02,2022-01-02,Baltimore City,2022-01-12,Incident Closed-Managed,
+241,59028,He smells an industrial odor in the residential neighborhood.,Odor,2022-01-01,2022-01-01,Baltimore City,2022-01-12,Incident Closed-Managed,
+242,59027,He smells an industrial odor in the residential neighborhood.,Odor,2021-12-31,2021-12-31,Baltimore City,2022-01-12,Incident Closed-Managed,
+243,59026,She sees Xs in  the sky.,Air,2021-12-16,2021-12-16,Baltimore City,2022-01-12,Incident Closed - No further action,
+244,59019,Lead and asbestos at the Baltimore Furniture Bank.,Air,2022-01-07,2022-01-06,Baltimore City,2022-01-07,Incident Closed - No further action,
+245,59016,Numerous concerns regarding the installation of a crematory at Hartzler Funeral Home,Air,2022-01-05,2022-01-05,Carroll,2022-01-05,Incident Closed-Managed,21776
+246,59011,Odor in Home,Odor,2021-12-28,,Washington,2021-12-30,Incident Closed - No further action,21795
+247,59010,illegal tire burning,Other,2021-12-28,2021-12-28,Prince Georges,2021-12-28,Incident Closed-Managed,20782
+248,59009,Cloud Of Smoke,Smoke,2021-12-20,2021-12-20,Allegany,,Referred to Outside Agency,26726
+249,59007,Smoke/Odor,Smoke,2021-12-20,2021-12-20,Allegany,,Referred to Outside Agency,26726
+250,59006,Burning plastic.,Air,2021-12-29,2021-12-28,Frederick,,Under Investigation,21703
+251,59005,The caller would like to find a list of Environmental Consultants that would assist with indoor air quality concerns.,Air,2021-12-21,2021-12-21,Montgomery,2021-12-28,Incident Closed - No further action,
+252,59004,Neighbor burning trash in the area,Other,2021-12-22,2021-12-22,Prince Georges,2021-12-22,Incident Closed-Managed,
+253,59002,Commercial sandblasting on private property next to Tabler Road and a stream.,Air,2021-12-27,2021-12-21,Frederick,2021-12-28,Incident Closed-Managed,
+254,58995,Odor Complaint,Odor,2021-12-05,2021-12-05,Dorchester,2021-12-05,Incident Closed - No further action,21835
+255,58994,Debris on Road,Other,2021-12-02,,Allegany,2022-03-09,Incident Closed-Managed,21502
+256,58991,Smoke from neighbors smoke stack.,Smoke,2021-12-15,2021-12-15,Harford,,Referred to Outside Agency,
+257,58990,Dust,Air,2021-12-21,2021-12-17,Frederick,2022-01-18,Incident Closed-Managed,
+258,58989,Truckers on complainants road have hit two of her trees.,Other,2021-12-16,2021-12-16,Harford,,Incident Not Applicable to MDE,
+259,58988,Neighbor is smoking in apartment next door.,Smoke,2021-12-13,2021-12-12,Harford,,Referred to Outside Agency,
+260,58987,Open Burning,Open Burning,2021-12-01,2021-11-07,Washington,2022-06-16,Incident Closed-Managed,21742
+261,58981,Odor around Beachwood Road in Baltimore County,Odor,2021-12-13,2021-12-13,Baltimore,2022-01-27,Incident Closed-Managed,21222
+262,58980,He smells an industrial odor in the residential neighborhood.,Odor,2021-12-04,2021-12-04,Baltimore City,2021-12-15,Incident Closed-Managed,
+263,58979,That a lead and mold inspection needs to be completed at her home.,Lead Paint Poisoning Complaint,2021-12-02,2021-12-02,Baltimore City,2021-12-15,Incident Closed - No further action,
+264,58978,That neighbor is open burning and creating smoke emissions.,Smoke,2021-12-02,2021-12-02,Calvert,2021-12-15,Incident Closed - No further action,
+265,58976,He smells an industrial odor in the residential neighborhood.,Odor,2021-12-01,2021-12-01,Baltimore City,2021-12-15,Incident Closed-Managed,
+266,58975,He smells an industrial odor in the residential neighborhood.,Odor,2021-11-20,2021-11-20,Baltimore City,2021-12-15,Incident Closed-Managed,
+267,58974,That neighbor is renovating exterior of home and creating paint fugitive emissions.,Fugitive Dust/Particulate Matter,2021-09-27,2021-09-27,Baltimore City,2021-12-15,Incident Closed - No further action,
+268,58973,He smells an industrial odor in the residential neighborhood.,Odor,2021-11-18,2021-11-18,Baltimore City,2021-12-15,Incident Closed-Managed,
+269,58972,He smells an industrial odor in the residential neighborhood.,Odor,2021-11-11,2021-11-11,Baltimore City,2021-12-15,Incident Closed-Managed,
+270,58958,Air quality concerns from crushing and screening businesses along Sands Road.,Air,2021-12-08,2021-11-30,Anne Arundel,,Under Investigation,
+271,58939,Odor Complaint,Odor,2021-11-21,2021-11-21,Dorchester,2021-11-30,Incident Closed - No further action,21835
+272,58938,Odor Complaint,Odor,2021-11-30,2021-11-21,Dorchester,2021-11-30,Incident Closed - No further action,21835
+273,58937,Odor Complaint,Odor,2021-11-21,2021-11-21,Dorchester,2021-11-21,Incident Closed - No further action,21835
+274,58936,Odor Complaint,Odor,2021-11-17,2021-11-17,Dorchester,2021-11-17,Incident Closed - No further action,21835
+275,58930,Employees of Target smoking outside of store.,Smoke,2021-11-22,2021-11-22,Baltimore,,Incident Not Applicable to MDE,
+276,58924,complaints from PG citizen,Other,2021-11-18,2021-11-18,Prince Georges,2021-11-22,Incident Closed-Managed,
+277,58923,"Air inside Michael and Son Sportsplex in Rockville is poor/ toxic, making people ill.","Air, Odor",2021-11-18,2021-11-02,Montgomery,,Referred to Outside Agency,20850
+278,58912,Complainant states The Plant is spraying hydrogen sulfates acid at 8PM.  Smell it in the air & coming from the ground & sewers.  This is near the Salvation Army on Old Washington RD.,Air,2021-11-16,2021-11-12,Charles,2021-11-16,Incident Closed-No Violation Observed,
+279,58909,"Pesticides, Possible Health Issues",Other,2021-11-09,,Garrett,,Referred to Outside Agency,
+280,58908,Bees Wings Corn Dust,Fugitive Dust/Particulate Matter,2021-11-08,,Washington,2022-06-21,Incident Closed - No further action,21742
+281,58907,Bees Wings Corn Dust,Fugitive Dust/Particulate Matter,2021-11-04,2021-11-04,Washington,2022-06-21,Incident Closed - No further action,21742
+282,58903,Odor Complaint,Odor,2021-11-11,2021-11-11,Dorchester,2021-11-11,Incident Closed - No further action,21835
+283,58902,"Tobacco smoke and odor, as well as harsh detergent fumes, generated by neighbor are coming into the home.","Air, Fumes, Odor, Smoke",2021-11-12,2021-11-12,Montgomery,,Referred to Outside Agency,20902
+284,58901,Odor Complaint,Odor,2021-11-11,2021-11-11,Dorchester,2021-11-11,Incident Closed - No further action,21835
+285,58900,Air quality in Texas area,Air,2021-11-11,2021-11-11,Baltimore,2021-11-12,Incident Closed-Managed,
+286,58899,Indoor air quality in home,Fumes,2021-11-09,2021-11-09,Harford,2021-11-12,Incident Closed-Managed,
+287,58892,He smells an industrial odor in the residential neighborhood.,Odor,2021-11-06,2021-11-06,Baltimore City,2021-11-09,Incident Closed-Managed,
+288,58888,Odors/fumes from the Businesses at 8249 Waterford Road.,Air,2021-11-08,2021-11-07,Anne Arundel,2021-11-09,Incident Closed-Managed,21122
+289,58886,smoking in commercial building.,Other,2021-11-02,2021-11-02,Prince Georges,2021-11-05,Incident Closed-Managed,
+290,58885,Mold in Apartment unit,Other,2021-11-01,2021-11-01,Prince Georges,2021-11-05,Incident Closed-Managed,
+291,58872,Smoke from burning leaves.  Neighbors backyard.,Air,2021-10-29,2021-10-27,Anne Arundel,2021-10-27,Incident Closed - No further action,
+292,58869,He observed strong odors on 83.  (LDS 10/26/21),Odor,2021-10-14,2021-10-14,,2021-10-29,Incident Closed-Managed,
+293,58868,He smells an industrial odor in the residential neighborhood.,Odor,2021-10-25,2021-10-25,Baltimore City,2021-10-29,Incident Closed-Managed,
+294,58867,He smells an industrial odor in the residential neighborhood.,Odor,2021-10-24,2021-10-24,Baltimore City,2021-10-29,Incident Closed-Managed,
+295,58866,He smells an industrial odor in the residential neighborhood.,Odor,2021-10-21,2021-10-21,Baltimore City,2021-10-29,Incident Closed-Managed,
+296,58862,He observed strong odors at a bus stop.,Odor,2021-10-14,2021-10-14,Baltimore City,2021-10-29,Incident Closed-Managed,
+297,58861,He smells an industrial odor in the residential neighborhood.,Odor,2021-10-12,2021-10-12,Baltimore City,2021-10-29,Incident Closed-Managed,
+298,58860,He smells an industrial odor in the residential neighborhood.,Odor,2021-10-10,2021-10-10,Baltimore City,2021-10-29,Incident Closed-Managed,
+299,58859,He smells an industrial odor in the residential neighborhood.,Odor,2021-10-08,2021-10-08,Baltimore City,2021-10-29,Incident Closed-Managed,
+300,58858,He smells an industrial odor in the residential neighborhood.,Odor,2021-09-24,2021-09-24,Baltimore City,2021-10-29,Incident Closed-Managed,
+301,58857,He smells an industrial odor in the residential neighborhood.,Odor,2021-10-06,2021-10-06,Baltimore City,2021-10-29,Incident Closed-Managed,
+302,58856,He smells an industrial odor in the residential neighborhood.,Odor,2021-10-03,2021-10-03,Baltimore City,2021-10-29,Incident Closed-Managed,
+303,58848,Questions regarding the Maryland Healthy Air Act.,Air,2021-10-26,2021-10-26,Not Yet Determined,2021-10-27,Incident Closed-Managed,
+304,58847,Noxious odor in Cheverly area,Other,2021-10-20,2021-10-20,Prince Georges,2021-10-26,Incident Closed-Managed,
+305,58845,Odor Complaint,Odor,2021-10-24,2021-10-24,Dorchester,2021-10-24,Incident Closed - No further action,21835
+306,58844,Odor Complaint,Odor,2021-10-08,2021-10-08,Dorchester,2021-10-08,Incident Closed - No further action,21835
+307,58843,Odor Complaint,Odor,2021-10-08,2021-10-08,Dorchester,2021-10-08,Incident Closed - No further action,21835
+308,58842,Odor Complaint,Odor,2021-10-09,2021-10-09,Dorchester,2021-10-09,Incident Closed - No further action,21835
+309,58841,Open burning of leaves in his neighbors backyard firepit.,Air,2021-10-26,2021-10-25,Anne Arundel,2021-10-26,Incident Closed - No further action,
+310,58840,"Dust from excavation site.  Concrete pad for 130,000sq.ft already constructed.",Air,2021-10-26,2021-10-22,Anne Arundel,2021-11-03,Incident Closed-No Violation Observed,21076
+311,58839,"Street scape project.  New storm drains, street, sidewalk and curbs.  Dust.",Air,2021-10-26,2021-10-22,Frederick,2021-10-28,Incident Closed-No Violation Observed,
+312,58838,"Inquiring information about the ASAP dry cleaner.  (soil tests, history)",Air,2021-10-26,2021-10-21,Baltimore,2021-10-21,Incident Closed-No Violation Observed,
+313,58836,Chemical odor inside Walmart store,Odor,2021-10-21,2021-10-20,Worcester,2022-03-08,Incident Closed-Managed,21811
+314,58828,Open Burning Plastics,Open Burning,2021-10-22,,Washington,,Referred to Outside Agency,21742
+315,58827,Open Burning Tires,Open Burning,2021-10-21,,Allegany,,Referred to Outside Agency,21502
+316,58826,Odor of Marijuana,Odor,2021-10-13,,Allegany,2022-03-10,Incident Closed-No Violation Observed,21501
+317,58821,Noxious smell in the area,Other,2021-10-18,2021-10-18,Prince Georges,2021-10-20,Incident Closed-Managed,
+318,58819,Strong Industrial smell in Cheverly area,Other,2021-10-15,2021-10-15,Prince Georges,2021-10-20,Incident Closed-Managed,
+319,58818,Mold and air quality in the vents in her rental property.,Air,2021-10-19,2021-10-18,Anne Arundel,2021-10-18,Incident Closed - No further action,
+320,58810,Smoke and odor from neighbor burning leaves and other materials.,Open Burning,2021-10-01,2021-09-30,Wicomico,2021-10-01,Incident Closed-No Violation Observed,21801
+321,58809,"Dust on her car, etc., from contractors building",Air,2021-10-18,2021-10-15,Anne Arundel,2021-10-19,Incident Closed-Managed,21076
+322,58800,Damage to Property from Blasting,Other,2021-10-08,,Washington,2022-06-21,Incident Closed - No further action,21722
+323,58799,paint fumes odor,Other,2021-10-12,2021-10-12,Prince Georges,2021-10-18,Incident Closed-Managed,20743
+324,58798,Odor in Cheverly area,Other,2021-10-09,2021-10-09,Prince Georges,2021-10-12,Incident Closed-Managed,
+325,58797,Fumes and spray painting on cars,Other,2021-10-11,2021-10-11,Howard,,Referred to Outside Agency,21075
+326,58790,Inquiry about requirements for sand blasting.,Air,2021-10-07,2021-10-05,Anne Arundel,2021-10-05,Incident Closed - No further action,
+327,58777,Ground/Stream Water Pollution,Groundwater Contamination,2021-10-05,,Allegany,2021-10-05,Incident Closed - No further action,21502
+328,58774,Radon Gas in Home,Other,2021-10-04,,Allegany,2021-10-05,Incident Closed - No further action,
+329,58773,Odor Complaint,Odor,2021-10-02,2021-10-02,Dorchester,2021-10-02,Incident Closed - No further action,21835
+330,58772,Odor Complaint,Odor,2021-09-23,2021-09-23,Dorchester,2021-09-23,Incident Closed - No further action,21835
+331,58771,Odor Complaint,Odor,2021-09-22,2021-09-22,Dorchester,2021-09-22,Incident Closed - No further action,21835
+332,58768,Odor Complaint,Odor,2021-09-22,2021-09-22,Dorchester,2021-09-22,Incident Closed - No further action,21835
+333,58766,Dust From Neighbors Construction Project,Fugitive Dust/Particulate Matter,2021-09-28,2021-09-25,Washington,2022-04-19,Incident Closed-Managed,21740
+334,58763,"Concerns about the air quality in Mexico Farms area, Cumberland, MD",Air,2021-08-31,2021-08-31,Allegany,2021-10-06,Incident Closed-No Violation Observed,21502
+335,58762,"Her CO detector alarmed in her RV and believes odors are coming from her neighbors property, which is now zoned commercial",Air,2021-10-04,2021-09-30,Anne Arundel,2021-10-05,Incident Closed-Managed,21122
+336,58762,"Her CO detector alarmed in her RV and believes odors are coming from her neighbors property, which is now zoned commercial",Air,2021-10-04,2021-09-30,Anne Arundel,2021-10-05,Incident Closed-Managed,21122
+337,58761,Odor from open burning of trash at her neighbors yard.,Air,2021-10-04,2021-09-30,Anne Arundel,,Under Investigation,21401
+338,58756,Open burning odors from a mobile home park up the street from the Complainant.,Air,2021-09-30,2021-09-29,Anne Arundel,,Under Investigation,21060
+339,58754,Odors from neighbors dog feces,Odor,2021-09-27,2021-09-27,Baltimore,2021-09-27,Incident Closed - No further action,
+340,58746,"heavy smoke from Route 50 Kenilworth, Cheverly",Other,2021-09-25,2021-09-25,Prince Georges,2021-09-29,Incident Closed-Managed,
+341,58745,smell of burning plastic,Other,2021-09-25,2021-09-25,Prince Georges,2021-09-29,Incident Closed-Managed,
+342,58744,strong smell oil in the air,Other,2021-09-24,2021-09-24,Prince Georges,2021-09-29,Incident Closed-Managed,
+343,58743,Strong burning oil in the area.,Other,2021-09-24,2021-09-24,Prince Georges,2021-09-27,Incident Closed-Managed,
+344,58742,strong burning smell on Rt 50,Other,2021-09-25,2021-09-25,Prince Georges,2021-09-29,Incident Closed-Managed,
+345,58731,He smells an industrial odor in the residential neighborhood.,Odor,2021-09-17,2021-09-17,Baltimore City,2021-09-24,Incident Closed-Managed,
+346,58730,He smells an industrial odor in the residential neighborhood.,Odor,2021-09-15,2021-09-15,Baltimore City,2021-09-24,Incident Closed-Managed,
+347,48724,Odor Complaint,Odor,2021-09-22,2021-09-22,Dorchester,2021-09-22,Incident Closed - No further action,21835
+348,48723,Odor Complaint,Odor,2021-09-22,2021-09-21,Dorchester,2021-09-21,Incident Closed - No further action,21835
+349,48722,Odor Complaint,Odor,2021-09-22,2021-09-16,Dorchester,2021-09-19,Incident Closed - No further action,21835
+350,48721,Odor Complaint,Odor,2021-09-22,2021-09-14,Dorchester,2021-09-14,Incident Closed - No further action,21835
+351,48720,Odor Complaint,Odor,2021-09-22,2021-09-14,Dorchester,2021-09-14,Incident Closed - No further action,21835
+352,48718,concern of ventilation system in a nail shop,Other,2021-09-20,2021-09-20,Howard,,Referred to Outside Agency,
+353,48702,Smoke and odors come from former Bainbridge Navy Training Site,"Air, Odor, Open Burning, Smoke",2021-09-07,2021-09-07,Cecil,2021-09-17,Incident Closed-Managed,21904
+354,48701,Idling trucks near complainants apartment,"Air, Fumes",2021-09-10,2021-09-10,Montgomery,,Referred to Outside Agency,
+355,48693,Smoke cloud and a strong smell of oil in the air coming from an unknown factory.,Air,2021-09-15,2021-09-14,Anne Arundel,2021-09-21,Incident Closed-No Violation Observed,
+356,48690,He is concerned about asbestos in a renovation on his block.,Fugitive Dust/Particulate Matter,2021-09-03,2021-09-03,Baltimore City,2021-09-15,Incident Closed - No further action,
+357,48689,He smells an industrial odor in the residential neighborhood.,Odor,2021-08-30,2021-08-30,Baltimore City,2021-09-15,Incident Closed-Managed,
+358,48688,He smells an industrial odor in the residential neighborhood.,Odor,2021-08-27,2021-08-27,Baltimore City,2021-09-15,Incident Closed-Managed,
+359,48687,He smells an industrial odor in the residential neighborhood.,Odor,2021-08-26,2021-08-26,Baltimore City,2021-09-15,Incident Closed-Managed,
+360,48686,He smells an industrial odor in the residential neighborhood.,Odor,2021-08-25,2021-08-25,Baltimore City,2021-09-15,Incident Closed-Managed,
+361,48685,He smells an industrial odor in the residential neighborhood.,Odor,2021-08-20,2021-08-20,Baltimore City,2021-09-15,Incident Closed-Managed,
+362,48679,"loud noise from junk yard, odor in Cheverly area",Other,2021-09-10,2021-09-10,Prince Georges,2021-09-13,Incident Closed-Managed,
+363,48677,Fumes coming from a metal business,Fumes,2021-09-10,2021-09-10,Baltimore,2021-09-13,Incident Closed - No further action,21222
+364,48675,MOSH representative inquiring about requirements for a hookah lounge.,Air,2021-09-13,2021-09-01,Anne Arundel,2021-09-13,Incident Closed - No further action,
+365,48674,Odor from neighbor burning incense candles.,Air,2021-09-13,2021-09-01,Anne Arundel,,Incident Not Applicable to MDE,
+366,48673,Odor from neighbor burning incense candles.,Air,2021-09-13,2021-08-31,Anne Arundel,,Incident Not Applicable to MDE,
+367,48672,Odor from neighbor burning incense candles.,Air,2021-09-13,2021-08-30,Anne Arundel,,Incident Not Applicable to MDE,
+368,48671,Odor from neighbor burning incense candles.,Air,2021-09-13,2021-08-27,Anne Arundel,,Incident Not Applicable to MDE,
+369,48657,Pepper processing plant creating odors in the town.,Odor,2021-09-08,2021-09-08,Dorchester,2022-03-08,Incident Closed-Managed,21643
+370,48642,Odor Complaint,Odor,2021-08-26,2021-08-26,Dorchester,2021-08-26,Incident Closed - No further action,21835
+371,48641,Odor Complaint,Odor,2021-08-20,2021-08-20,Dorchester,2021-08-20,Incident Closed - No further action,21835
+372,48640,Odor Complaint,Odor,2021-08-31,2021-08-17,Dorchester,2021-08-17,Incident Closed - No further action,21835
+373,48639,Odor Complaint,Odor,2021-08-31,2021-08-14,Dorchester,2021-08-14,Incident Closed - No further action,21835
+374,48626,Odor from Neighbors,Odor,2021-08-24,2021-08-24,Washington,2022-06-21,Incident Closed - No further action,21740
+375,48621,Odors from rendering plant have been bad for past two weeks.,Odor,2021-08-26,2021-08-26,Dorchester,2022-03-08,Incident Closed-Managed,21835
+376,48616,Noise from her neighbor in their apartment complex.,"Air, Noise Complaint",2021-08-26,2021-08-25,Anne Arundel,,Incident Not Applicable to MDE,
+377,48603,Neighbor is using hundreds of mothballs in yard and on public walk way.,"Air, Fumes, Odor",2021-08-19,2021-08-06,Montgomery,,Referred to Outside Agency,20878
+378,48599,He smells an industrial odor in the residential neighborhood.,Odor,2021-08-18,2021-08-18,Baltimore City,2021-08-20,Incident Closed-Managed,
+379,48598,He smells an odor in the neighborhood when temperatures reach 75 degrees.,Odor,2021-08-11,2021-08-11,Baltimore City,2021-08-20,Incident Closed-Managed,
+380,48597,He smells an industrial odor in the residential neighborhood.,Odor,2021-07-26,2021-07-26,Baltimore City,2021-08-20,Incident Closed-Managed,
+381,48595,Luis Autobody spray painting outside fumes coming from site.,Other,2021-08-17,2021-08-17,Prince Georges,2021-08-25,Incident Closed-Managed,20781
+382,48590,Homeowner at 925 Kosciuszko Avenue pouring gasoline and oil in his yard to kill the weeds.,Air,2021-08-17,2021-08-11,Anne Arundel,2021-08-17,Incident Closed-Managed,
+383,48589,Odor from the autobody shop.,Air,2021-08-17,2021-08-11,Anne Arundel,2021-08-18,Incident Closed-No Violation Observed,
+384,48588,Homeowner pouring gasoline and oil in yard to kill weeds.,Air,2021-08-17,2021-08-11,Anne Arundel,2021-08-17,Incident Closed-Managed,
+385,48587,Odor from open burning at 1476 Shot Town RD.,Air,2021-08-17,2021-08-11,Anne Arundel,,Under Investigation,
+386,48577,Spring Garden Farm Mulch production is causing noise and unbearable dust.,Fugitive Dust/Particulate Matter,2021-08-14,2021-08-14,Montgomery,2021-08-16,Incident Closed-Managed,20833
+387,48576,Concerns regarding smoke and odor emanating from the former Bainbridge Naval Training Center in Port Deposit.,"Air, Open Burning, Smoke",2021-08-12,2021-08-12,Cecil,2021-09-17,Incident Closed-Managed,21904
+388,48574,Odors and soot coming from the former Bainbridge Naval Training Site. Strong toxic smell in the air.,"Air, Odor, Open Burning",2021-08-12,2021-08-12,Cecil,2021-09-17,Incident Closed-Managed,21904
+389,48572,Trash Truck producing black smoke from exhaust on Route 140 in Westminster.,Smoke,2021-08-12,2021-08-11,Carroll,2021-08-13,Incident Closed-Managed,21046
+390,48571,Smoke coming from stack,Smoke,2021-08-09,2021-08-07,Baltimore,2021-08-07,Incident Closed-Managed,21228
+391,48565,Odor along North Point Road,Odor,2021-07-09,2021-07-09,Baltimore,2022-01-27,Incident Closed-Managed,21222
+392,48564,Odor Complaint,Odor,2021-08-10,2021-08-07,Dorchester,2021-08-07,Incident Closed - No further action,21835
+393,48563,Odor Complaint,Odor,2021-08-10,2021-08-07,Dorchester,2021-08-07,Incident Closed - No further action,21835
+394,48561,Odor Complaint,Odor,2021-08-09,2021-08-01,Dorchester,2021-08-01,Incident Closed - No further action,21835
+395,48560,Odor Complaint,Odor,2021-08-09,2021-07-28,Dorchester,2021-07-28,Incident Closed - No further action,21835
+396,48559,Odor Complaint,Odor,2021-07-23,2021-07-23,Dorchester,2021-07-23,Incident Closed - No further action,21835
+397,48550,"Complainant stated the following in the email This incinerator needs to be shut down! We cant breathe in Poolesville,  Maryland tonight! what are you going to do abou it? ","Air, Odor",2021-03-02,,Montgomery,2021-08-06,Incident Closed - No further action,
+398,48549,Odor from neighbor pouring gasoline or oil onto their yard to kill weeds.,Air,2021-08-06,2021-08-05,Anne Arundel,2021-08-06,Incident Closed-No Violation Observed,21060
+399,48548,Odor created from a neighbor pouring gasoline or oil onto their yard to kill weeds.,Air,2021-08-05,2021-08-05,Anne Arundel,2021-08-05,Incident Closed-No Violation Observed,21060
+400,48543,smell of exhaust/ noise on Route 70,Other,2021-08-03,2021-08-03,Howard,2021-08-18,Incident Closed-Managed,
+401,48542,"Concerned with dust, traffic, and noise associated with Spring Garden Farm mulch production next -door.","Air, Fugitive Dust/Particulate Matter",2021-08-02,2021-08-02,Montgomery,2021-08-16,Incident Closed-Managed,20833
+402,48530,odor in Cheverly area and also loud noise in the area,Other,2021-07-22,2021-07-22,Prince Georges,2021-07-30,Incident Closed-Managed,
+403,48529,"Landscape Company spraying for mosquitoes at neighbors yard, creating odor and residue getting on her vegetable garden.",Air,2021-07-30,2021-07-29,Anne Arundel,2021-07-30,Incident Closed-No Violation Observed,
+404,48525,Dust issues,Fugitive Dust/Particulate Matter,2021-07-28,2021-07-28,Harford,2022-03-03,Incident Closed-No Violation Observed,21085
+405,48524,Dust,Fugitive Dust/Particulate Matter,2021-07-28,2021-07-28,Harford,2021-07-29,Incident Closed-No Violation Observed,21085
+406,48523,Dust issues,Fugitive Dust/Particulate Matter,2021-07-27,2021-07-27,Harford,2021-07-29,Incident Closed-No Violation Observed,21085
+407,48512,Air monitoring equipment/request for crop overspray,Air,2021-07-27,2021-07-27,Caroline,2022-03-08,Incident Closed-Managed,
+408,48508,"The complainant has concerns related to dust, noise, and truck traffic at the next-door business, Spring Garden Farm Mulch.","Air, Fugitive Dust/Particulate Matter",2021-07-22,2021-07-22,Montgomery,,Referred to Outside Agency,20833
+409,38502,He smells an industrial odor in the residential neighborhood.,Odor,2021-07-17,2021-07-17,Baltimore City,2021-07-22,Incident Closed-Managed,
+410,38501,He smells an industrial odor in the residential neighborhood.,Odor,2021-07-15,2021-07-15,Baltimore City,2021-07-22,Incident Closed-Managed,
+411,38489,Dust from Allan Myers,Fugitive Dust/Particulate Matter,2021-07-20,2021-07-20,Harford,2021-07-22,Incident Closed-No Violation Observed,21085
+412,38475,Smell of burning oil in Cheverly area,Other,2021-07-09,2021-07-09,Prince Georges,2021-07-16,Incident Closed-Managed,
+413,38474,Strong industrial smell of burning oil in the Cheverly area,Other,2021-07-08,2021-07-08,Prince Georges,2021-07-16,Incident Closed-Managed,
+414,38466,Smoke from open burning of trash.,Air,2021-07-15,2021-07-15,Anne Arundel,2021-07-19,Incident Closed-Managed,21401
+415,38464,Townhouse neighbors.  Odor from neighbors smoking things and burning incense candles.  Complainant called about smoke from neighbors grill on 6/7/21.,Air,2021-07-15,2021-07-07,Anne Arundel,,Under Investigation,20764
+416,38463,Acid stolen from Plant and dumped into water run-off sewers and creates an odor.  Acid sprayed in the Pinefield neighborhood & surrounding areas.,Air,2021-07-14,2021-07-13,Charles,,Under Investigation,20601
+417,38458,Odor from a seafood business.,Air,2021-07-14,2021-06-30,Anne Arundel,2021-07-16,Incident Closed-No Violation Observed,20764
+418,38454,Dusting from the reclaim piles at National Gypsum continues to be uncontrolled.  The water truck was only used once in the past week.,Air,2021-07-13,,Baltimore City,,Under Investigation,21224
+419,38452,He smells an industrial odor in the residential neighborhood.,Odor,2021-07-05,2021-07-05,Baltimore City,2021-07-13,Incident Closed-Managed,
+420,38451,He smells an industrial odor in the residential neighborhood.,Odor,2021-07-11,2021-07-11,Baltimore City,2021-07-13,Incident Closed-Managed,
+421,38450,He smells an industrial odor in the residential neighborhood.,Odor,2021-07-10,2021-07-10,Baltimore City,2021-07-13,Incident Closed-Managed,
+422,38441,Smell of Hydrogen sulfide from tenant apartment,Other,2021-07-09,2021-07-09,Prince Georges,2021-07-09,Incident Closed-Managed,
+423,38440,Dust from Staging Site,Fugitive Dust/Particulate Matter,2021-06-17,2021-06-10,Allegany,2021-07-09,Incident Closed - No further action,21502
+424,38430,"National Gypsum only ran the water truck twice since last week,  They have been stirring up dust yesterday and today.",Air,2021-07-07,2021-07-06,Baltimore City,2021-07-07,Incident Closed-Managed,21224
+425,38426,Sickling odor in the Cheverly area,Other,2021-07-02,2021-07-02,Prince Georges,2021-07-06,Incident Closed-Managed,
+426,38423,She has a sample and wants it to be tested for Asbestos.,Asbestos Complaint,2021-06-29,2021-06-29,Baltimore City,2021-07-02,Incident Closed - No further action,
+427,38422,He smells an industrial odor in the residential neighborhood.,Odor,2021-06-24,2021-06-24,Baltimore City,2021-07-02,Incident Closed-Managed,
+428,38421,He smells an industrial odor in the residential neighborhood.,Odor,2021-06-23,2021-06-23,Baltimore City,2021-07-02,Incident Closed-Managed,
+429,38417,Bad odors,Odor,2021-07-01,2021-07-01,Worcester,2022-03-08,Incident Closed-Managed,21811
+430,38411,Mr. Kenneth Frankhouse left a message on H. Janssens work phone.  There is a pile of broken up sheetrock creating a dust cloud when it is loaded into trucks.  The dust cloud is making it difficult to breathe and tearing up the paint on cars.  It looks like it is snowing down here. The have a water truck but they dont use it.,Air,2021-06-30,,Baltimore City,2021-07-13,Incident Closed-Managed,21224
+431,38397,Has questions re the safety of pesticides being sprayed on farm field across the road from complainants property,Agricultural,2021-06-25,2021-06-25,Queen Annes,2022-03-08,Incident Closed-Managed,
+432,38393,Piling Dirt near a Stream,Illegal Dumping,2021-06-22,,Allegany,,Referred to WMA,21502
+433,38392,Odor Complaint,Odor,2021-06-16,2021-06-16,,2021-06-16,Incident Closed - No further action,
+434,38391,Sweeper truck creating dust in the parking lot.,Air,2021-06-24,2021-06-23,Anne Arundel,,Under Investigation,21061
+435,38384,Neighbors diesel vehicle repair business has vehicles idling for long periods of time.,Air,2021-06-21,2021-06-21,Cecil,,Referred to Outside Agency,
+436,38383,"Odors in the area around American Yeast, along North Point Road being the focal point.",Odor,2021-06-23,2021-06-22,Baltimore,2022-01-27,Incident Closed-Managed,21222
+437,38382,Strong odors in area around American Yeast along Beachwood Road,Odor,2021-06-23,2021-06-21,Baltimore,2022-01-27,Incident Closed-Managed,21222
+438,38377,Neighbor has fabricated a wood-burning pool heater causing smoke and odor.,"Air, Odor, Smoke",2021-06-21,2021-06-21,Carroll,,Referred to Outside Agency,21784
+439,38374,Spring Garden Farm mulch operation is causing dust issues. also has concerns regarding chemicals used to color mulch in the mulch dust.,"Air, Fugitive Dust/Particulate Matter",2021-06-21,2021-06-11,Montgomery,,Referred to LMA,20833
+440,38372,Homeowner bred chickens in his basement and they created a dust issue.,Air,2021-06-21,2021-06-17,Baltimore,2021-07-15,Incident Closed-No Violation Observed,
+441,28369,HVAC system in apartment is producing poor air quality and wants someone to fix the issue.,ARA AQCP non-regulated entity,2021-06-16,2021-06-16,Baltimore City,2021-06-17,Incident Closed - No further action,
+442,28365,Air pollution and noise pollution caused by Montgomery County Airpark training operations.,"Air, Noise Complaint",2021-06-16,2021-06-10,Montgomery,2021-06-16,Incident Closed-Managed,20879
+443,28362,Dust from Construction Staging Area,Fugitive Dust/Particulate Matter,2021-06-11,,Allegany,2022-07-18,Incident Closed-Managed,
+444,28361,Truck Idling in front of whole food,Other,2021-06-16,2021-06-16,Prince Georges,2021-06-16,Incident Closed-Managed,20785
+445,28360,Dust from Construction Staging Area,Fugitive Dust/Particulate Matter,2021-06-07,,Allegany,2022-06-21,Incident Closed - No further action,
+446,28359,Natural gas type odor present at 1110 Bonifant Street.,Odor,2021-06-12,2021-06-12,Montgomery,,Referred to Outside Agency,20910
+447,28358,Dirts from a piece of land from BGE,Other,2021-06-14,2021-06-14,Howard,,Referred to Outside Agency,
+448,28347,Heavy odor of burning oil in Cheverly area,Odor,2021-06-10,2021-06-07,Prince Georges,2021-06-11,Incident Closed-Managed,
+449,28345,Truck idling at  Cheverly whole food facility,Other,2021-06-09,2021-06-09,Prince Georges,2021-06-11,Incident Closed-Managed,20785
+450,28342,Smoke from neighbors food grill.  Grill located on deck at townhouse.,Air,2021-06-09,2021-06-07,Anne Arundel,2021-06-24,Incident Closed-Managed,207241986
+451,28341,dust concern  coming from Sudbury granite and Marble,Fugitive Dust/Particulate Matter,2021-06-07,2021-06-07,Prince Georges,2021-06-08,Incident Closed-Managed,20740
+452,28339,Neighbor has fabricated a wood burning pool heater. The unit is creating smoke and odors.,"Air, Odor, Smoke",2021-06-03,2021-06-03,Carroll,,Referred to Outside Agency,21784
+453,28335,ceiling dinner room collapsed,Other,2021-06-03,2021-06-03,Howard,2021-06-03,Incident Closed-Managed,
+454,28332,Neighbor is burning garbage and dumping gasoline on complainants plants,Other,2021-06-04,2021-06-04,Baltimore,,Referred to Outside Agency,
+455,28328,Odor,Odor,2021-06-01,2021-05-31,Baltimore,2022-01-27,Incident Closed-Managed,21222
+456,28327,Odor,Odor,2021-06-01,2021-06-01,Baltimore,2022-01-27,Incident Closed-Managed,21222
+457,28325,Neighbor has constructed wood-burning pool-heating device. Causing smoke and odor daily.,"Odor, Smoke",2021-06-01,2021-06-01,Carroll,,Referred to Outside Agency,21784
+458,28316,105 Ridgely Road firepit creating smoke.,Air,2021-05-28,2021-05-25,Anne Arundel,2021-06-02,Incident Closed-Managed,
+459,28315,Officer at a site where resident is burning plastic.,Air,2021-05-28,2021-05-25,Frederick,2021-06-02,Incident Closed - No further action,
+460,28314,Smoke from neighbors firepit.,Air,2021-05-28,2021-05-21,Anne Arundel,2021-06-07,Incident Closed-Managed,21113
+461,28313,Odors coming from Honeygo,Odor,2021-05-27,2021-05-27,Baltimore,,Referred to LMA,21128
+462,28312,Dust from trucks coming in and out of Allan Myers Jenkins site.,Fugitive Dust/Particulate Matter,2021-05-26,2021-05-27,Harford,2021-05-28,Incident Closed-Managed,21085
+463,28310,Dust from a pool company operating in a neighborhood.,Fugitive Dust/Particulate Matter,2021-05-26,2021-05-26,Baltimore,2021-05-26,Incident Closed-Managed,
+464,28309,that water tower is being sandblasted which is creating dust and wants the Department to take samples.,Fugitive Dust/Particulate Matter,2021-05-24,2021-05-24,Calvert,2021-05-26,Incident Closed-Managed,
+465,28308,He smells an industrial odor in the residential neighborhood.,Odor,2021-05-24,2021-05-24,Baltimore City,2021-05-26,Incident Closed-Managed,
+466,28307,He smells an industrial odor in the residential neighborhood.,Odor,2021-05-21,2021-05-21,Baltimore City,2021-05-26,Incident Closed-Managed,
+467,28306,He smells an industrial odor in the residential neighborhood.,Odor,2021-05-20,2021-05-20,Baltimore City,2021-05-26,Incident Closed-Managed,
+468,28305,He smells an industrial odor in the residential neighborhood.,Odor,2021-05-16,2021-05-16,Baltimore City,2021-05-26,Incident Closed-Managed,
+469,28304,Fragrance from laundry room in the condominium building is causing chemical sensitivity concerns within the residence.,"Air, Odor",2021-05-24,2021-05-24,Montgomery,2021-05-25,Incident Closed-Managed,
+470,28303,Neighbor is burning trash,Smoke,2021-05-24,2021-05-24,St. Marys,,Referred to Outside Agency,
+471,28302,dust coming from a cutting and grinding stone company,Other,2021-05-24,2021-05-24,Prince Georges,2021-05-28,Incident Closed-Managed,
+472,28301,Dust from granite and marble company in college park,Fugitive Dust/Particulate Matter,2021-05-21,2021-05-21,Prince Georges,2021-05-24,Incident Closed-Managed,20740
+473,28299,Pollution from airplanes,Other,2021-05-21,2021-05-21,Statewide,,Referred to Outside Agency,
+474,28298,Debris Dumping near Stream,Illegal Dumping,2021-05-13,,Garrett,,Referred to WMA,21541
+475,18298,Pool company is operating in a neighborhood and making dust.,Fugitive Dust/Particulate Matter,2021-05-18,2021-05-18,Baltimore,,Referred to Outside Agency,
+476,18297,Painting Vehicle in Parking Lot,Other,2021-05-12,2021-05-12,Washington,2022-07-18,Incident Closed-Managed,21740
+477,18293,Pesticide spraying,Odor,2021-05-17,2021-05-17,Baltimore,2021-05-18,Incident Closed - No further action,
+478,18291,Complainant observed smoke in the distance.  Inquiring about the cause of the smoke.,Air,2021-05-18,2021-05-12,Anne Arundel,2021-05-18,Incident Closed-No Violation Observed,
+479,18290,Strong odor in the Cheverly area,Odor,2021-05-14,2021-05-14,Prince Georges,2021-05-17,Incident Closed-Managed,
+480,18289,Dust concern from a granite and marble facility,Other,2021-05-12,2021-05-12,Prince Georges,2021-05-17,Incident Closed-Managed,
+481,18288,Pesticide Spraying,Air,2021-05-14,2021-05-14,Baltimore,,Referred to WMA,
+482,18287,"Complainant states an odor from the Curtis Bay Biohazard facility is noticed in her neighborhood of Tanyard Cove.  Upon further conversation, she stated the facility is called the Curtis Bay Medical Waste Services, located on Hawkins Point RD, Baltimore.",Air,2021-05-14,2021-05-13,Anne Arundel,2021-05-18,Incident Closed-No Violation Observed,
+483,18283,He smells an industrial odor in the residential neighborhood.,Odor,2021-05-07,2021-05-07,Baltimore City,2021-05-13,Incident Closed-Managed,
+484,18281,Concerned that helicopters traveling to nearby hospitals and military facilities are spraying material over house.,Air,2021-05-11,2021-05-10,Montgomery,2021-05-13,Incident Closed-Managed,20817
+485,18280,Chemical odor of concern in Silver Spring.,"Air, Odor",2021-05-10,2021-05-10,Montgomery,,Referred to Outside Agency,20905
+486,18279,Dust from site excavation.,Air,2021-05-13,2021-05-12,Frederick,2021-06-14,Incident Closed-Managed,21771
+487,18278,Smoke from open burning.  Neighbors backyard.,Air,2021-05-12,2021-05-10,Anne Arundel,,Under Investigation,
+488,18275,Neighbor is open burning,Smoke,2021-05-10,2021-05-10,St. Marys,,Referred to Outside Agency,
+489,18266,Dust is being produced from the neighbors pool renovation,Fugitive Dust/Particulate Matter,2021-05-04,2021-05-04,Baltimore,2022-03-03,Incident Closed - No further action,
+490,18264,Neighbors house exterior is being scraped and sanded. The paint has been tested and confirmed to have lead. Today has high winds carrying particulate from sanding. Has health concerns.,"Air, Fugitive Dust/Particulate Matter",2021-04-30,2021-04-30,Montgomery,,Referred to Outside Agency,20910
+491,18263,Industrial smell in the around Cheverly Maryland,Other,2021-04-30,2021-04-30,Prince Georges,2021-04-30,Incident Closed-Managed,
+492,18261,company self reporting a Freon leak,Other,2021-04-29,2021-04-29,Prince Georges,2021-04-30,Incident Closed-Managed,
+493,18256,Neighbor has fire pit and has concerns.,Open Burning,2021-04-27,2021-04-27,Anne Arundel,2021-04-27,Incident Closed-Managed,
+494,18255,Dump trucks bringing material to the site and open burning it.,Open Burning,2021-04-23,2021-04-22,Dorchester,2021-04-27,Incident Closed - No further action,21643
+495,18249,Indoor air quality concerns in apartment.,Air,2021-04-23,2021-04-23,Montgomery,2021-04-27,Incident Closed - No further action,
+496,18248,Radon in Home,Other,2021-04-19,,Allegany,2021-04-26,Incident Closed - No further action,
+497,18244,Unknown odor in home,Odor,2021-04-22,2021-04-22,Baltimore,,Incident Not Applicable to MDE,
+498,18243,He smells an industrial odor in the residential neighborhood.,Odor,2021-04-16,2021-04-16,Baltimore City,2021-04-23,Incident Closed-Managed,
+499,18242,Paint odor coming from auto shop.,Odor,2021-04-15,2021-04-15,Baltimore City,2021-04-23,Incident Closed-Managed,
+500,18241,He smells an industrial odor in the residential neighborhood.,Odor,2021-04-11,2021-04-11,Baltimore City,2021-04-23,Incident Closed-Managed,
+501,18240,Dust during construction of a soccer complex and field.,Air,2021-04-23,2021-04-22,Frederick,,Under Investigation,21771
+502,18239,Dust complain from PG health department,Other,2021-04-20,2021-04-20,,2021-04-23,Incident Closed-Managed,
+503,18237,Dust observed when driving by the plant.,Fugitive Dust/Particulate Matter,2021-04-21,2021-04-21,Harford,2021-04-22,Incident Closed-No Violation Observed,21040
+504,18235,Neighbor is using fragrance  that is carrying over onto complainants property.,Odor,2021-04-19,2021-04-19,Montgomery,2021-04-21,Incident Closed-Managed,
+505,18233,Dry cement and dust from ADS builders,Other,2021-04-19,2021-04-14,Prince Georges,2021-04-21,Incident Closed-Managed,
+506,18231,Concerns over smoke and odor generated by burning batteries.,"Odor, Smoke",2021-04-06,2021-04-06,Montgomery,2021-04-20,Incident Closed-Managed,20817
+507,18229,Odor from mold in her bathroom.   Apartment building.,Air,2021-04-20,2021-04-16,Anne Arundel,,Incident Not Applicable to MDE,
+508,18228,Painting Cars,Possible Permit Violation,2021-04-08,,Washington,2022-06-21,Incident Closed-Managed,21740
+509,18227,Neighbor piling variety of material with intent to burn,Other,2021-04-13,2021-04-13,Caroline,2022-03-08,Incident Closed-Managed,21629
+510,18225,Valley Proteins is releasing industrial air pollution.,Odor,2021-04-13,2021-04-13,Baltimore City,2021-04-16,Incident Closed-Managed,
+511,18223,Condominium plans to install fans and vents below patio to remove vehicle exhaust gases from the garage.,"Air, Fumes, Odor",2021-04-12,2021-04-12,Montgomery,2021-04-15,Incident Closed - No further action,20910
+512,18218,He smells an industrial odor in the residential neighborhood.,Odor,2021-04-12,2021-04-12,Baltimore City,2021-04-14,Incident Closed-Managed,
+513,18217,He smells an industrial odor in the residential neighborhood.,Odor,2021-04-08,2021-04-08,Baltimore City,2021-04-14,Incident Closed-Managed,
+514,18213,"Concern of a future burn of propane tanks, oil tanks, tires and gas tanks located at 27082 Anthony Mill Road, Denton.",Air,2021-04-12,2021-04-08,Caroline,,Referred to ARA,
+515,18209,Smoke and odor from Chamber Funeral Home,Other,2021-04-02,2021-03-11,Prince Georges,2021-04-12,Incident Closed-Managed,20737
+516,18207,Dust coming from a concrete plant,Fugitive Dust/Particulate Matter,2021-04-07,2021-04-07,Baltimore,2021-04-08,Incident Closed-Managed,
+517,18206,The complainant called to inform the Department that a body shop was using illegal paint. The complainant had work done at Premiere Custom Z and was given a can of paint for their car which was purchased in Pennsylvania.,"Air, Other",2021-04-07,2021-04-06,Carroll,2021-04-07,Incident Closed - No further action,21157
+518,18205,Apartment indoor air.,Air,2021-04-07,2021-03-22,Anne Arundel,,Incident Not Applicable to MDE,
+519,18204,Apartment.  Mold in her bathroom.,Air,2021-04-07,2021-03-22,Anne Arundel,,Incident Not Applicable to MDE,
+520,18203,smoke from open burning at neighbors yard.,Air,2021-04-07,2021-03-22,Anne Arundel,2021-04-07,Incident Closed-No Violation Observed,
+521,18201,Smoke from open burning at neighbors yard.,Air,2021-04-07,2021-03-22,Anne Arundel,2021-04-07,Incident Closed-No Violation Observed,
+522,18200,Odor on Bucks School House Rd,Odor,2021-04-06,2021-04-06,Baltimore,2021-04-06,Incident Closed-Managed,
+523,18199,Odors emanating from apartment next door,Odor,2021-04-06,2021-04-06,St. Marys,,Incident Not Applicable to MDE,
+524,18198,Insufficient filtration system allowing toxic powder coating particulates to enter the atmosphere.,Fugitive Dust/Particulate Matter,2021-03-18,2021-03-18,Baltimore City,2022-01-27,Incident Closed-Managed,
+525,18196,Open Burning of Garbage,Open Burning,2021-03-31,,Washington,,Referred to Outside Agency,21711
+526,18195,He smells an industrial odor in the residential neighborhood.,Odor,2021-03-30,2021-03-30,Baltimore City,2021-03-31,Incident Closed-Managed,
+527,18194,The Marc Train workers are on the tacks by his home creating dust.,Fugitive Dust/Particulate Matter,2021-03-26,2021-03-26,Baltimore City,2021-03-31,Incident Closed-Managed,
+528,18193,He smells an industrial odor in the residential neighborhood.,Odor,2021-03-25,2021-03-25,Baltimore City,2021-03-31,Incident Closed-Managed,
+529,18192,He smells an industrial odor in the residential neighborhood.,Odor,2021-03-24,2021-03-24,Baltimore City,2021-03-31,Incident Closed-Managed,
+530,18191,The laundry building behind her home is releasing lint into the air,Fugitive Dust/Particulate Matter,2021-03-23,2021-03-23,Baltimore City,2021-03-31,Incident Closed-Managed,
+531,18190,That a renovation is scrapping paint off a home.,Fugitive Dust/Particulate Matter,2021-03-23,2021-03-23,Baltimore City,2021-03-31,Incident Closed-Managed,
+532,18189,That a renovation is scrapping paint off a home.,Fugitive Dust/Particulate Matter,2021-03-23,2021-03-23,Baltimore City,2021-03-31,Incident Closed-Managed,
+533,18188,He smells an industrial odor in the residential neighborhood.,Odor,2021-03-19,2021-03-19,Baltimore City,2021-03-31,Incident Closed-Managed,
+534,18186,Dust issue from the harbor tunnel construction,Other,2021-03-30,2021-03-30,Howard,2021-04-05,Incident Closed-Managed,
+535,18175,Indoor Air,Air,2021-03-23,2021-03-23,Not Yet Determined,,Incident Not Applicable to MDE,
+536,18174,Tearing down and burning chicken house.,Open Burning,2021-03-24,2021-03-24,Worcester,2022-03-08,Incident Closed-Managed,21863
+537,18173,Fugitive dust coming from concrete plant,Fugitive Dust/Particulate Matter,2021-03-23,2021-03-23,Baltimore,2021-03-31,Incident Closed-No Violation Observed,21105
+538,18172,Indoor air,Other,2021-03-22,2021-03-22,Baltimore,,Incident Not Applicable to MDE,
+539,18169,He smells an industrial odor in the residential neighborhood.,Odor,2021-03-17,2021-03-17,Baltimore City,2021-03-19,Incident Closed-Managed,
+540,18168,He smells an industrial odor in the residential neighborhood.,Odor,2021-03-16,2021-03-16,Baltimore City,2021-03-19,Incident Closed-Managed,
+541,18167,She works for a used auto sales and the business next door is causing dust.,Fugitive Dust/Particulate Matter,2021-03-12,2021-03-12,Baltimore City,2021-03-19,Incident Closed-Managed,21224
+542,18164,strong gas smell,Other,2021-03-17,2021-03-17,Prince Georges,2021-03-19,Incident Closed-Managed,
+543,8161,Complainants neighborhood air quality concerns.  She states she has breast cancer.,Air,2021-03-18,2021-03-16,Charles,2021-03-18,Incident Closed-No Violation Observed,
+544,8160,"Complainant smells smoke, possibly from a homeowners backyard firepit.",Air,2021-03-18,2021-03-11,Anne Arundel,2021-03-18,Incident Closed-No Violation Observed,
+545,8157,autoshop spray painting car without a paint booth,Other,2021-03-11,2021-03-11,Prince Georges,2021-03-31,Incident Closed-Managed,20710
+546,8156,Rubber Odors from Burning,Odor,2021-03-15,,Allegany,2022-03-10,Incident Closed-No Violation Observed,21502
+547,8154,Open Burning,Open Burning,2021-03-12,,Allegany,2022-06-21,Incident Closed - No further action,21532
+548,8154,Open Burning,Open Burning,2021-03-12,,Allegany,2022-06-21,Incident Closed - No further action,21532
+549,8150,Atmospheric Freon Release,Air Pollutant Release,2021-03-11,,Washington,,Referred to Outside Agency,21740
+550,8149,Smoke from Solar Farm Construction Project,Fugitive Dust/Particulate Matter,2021-03-10,2021-03-10,Allegany,2022-06-21,Incident Closed - No further action,21530
+551,8148,Dust from concrete plant,Fugitive Dust/Particulate Matter,2021-03-09,2021-03-11,Harford,2021-03-16,Incident Closed-No Violation Observed,21040
+552,8147,Neighbor is drilling in basement and creating dust in complainants basement.,Fugitive Dust/Particulate Matter,2021-03-09,2021-03-09,Baltimore,2021-03-15,Incident Closed - No further action,
+553,8146,Fumes from Burning,Fumes,2021-03-09,2021-03-09,Baltimore,2021-03-15,Incident Closed - No further action,
+554,8145,Fumes from burning leaves,Fumes,2021-03-11,2021-03-12,Baltimore,2021-03-15,Incident Closed - No further action,
+555,8144,She called regarding pollution from a construction site.,Fugitive Dust/Particulate Matter,2021-03-11,2021-03-11,Baltimore City,2021-03-12,Incident Closed-Managed,
+556,8143,He smells an industrial odor in the residential neighborhood.,Odor,2021-03-11,2021-03-11,Baltimore City,2021-03-16,Incident Closed-Managed,
+557,8142,He smells an industrial odor in the residential neighborhood.,Odor,2021-03-10,2021-03-10,Baltimore City,2021-03-12,Incident Closed-Managed,
+558,8141,"Contractor doing work across the street.  Complainant is seeing red dust on cars in the neighborhood.  Worried about lead paint, as house is cover 100 years old.",Fugitive Dust/Particulate Matter,2021-03-04,2021-03-04,Baltimore City,2021-03-12,Incident Closed-Managed,
+559,8140,Open burning of trash,Open Burning,2021-03-03,2021-03-02,Carroll,,Referred to Outside Agency,21158
+560,8139,Concerned site is operating an illegal wood grinder.,ARA AQCP non-regulated entity,2021-03-04,2021-03-04,Calvert,2021-03-12,Incident Closed-Managed,20754
+561,8138,Concerned site operating illegal crusher.,ARA AQCP non-regulated entity,2021-03-02,2021-03-02,Baltimore City,2021-03-12,Incident Closed-Managed,21226
+562,8137,Bad odors from land applying sludge.,"Agricultural, Odor",2021-03-10,2021-03-10,Wicomico,,Referred to Outside Agency,21830
+563,8136,"Complainant stated, very strong smell of acid coming from the plant area and smell noticed from the road",Air,2021-03-10,2021-03-09,Charles,,Under Investigation,20601
+564,8135,"Complainant stated, Spraying toxic chemicals in the air around houses through sewer system",Air,2021-03-10,2021-03-09,Charles,,Under Investigation,20601
+565,8130,"On 3/3/21 at 1031 AM, Mr. Mullin left a voice mail on the complaint line stating that he observed  dark smoke coming from the Wheelabrator.",Air,2021-03-08,2021-03-03,Baltimore City,2021-03-03,Incident Closed-Managed,21230
+566,8129,He smells an industrial odor in the residential neighborhood.,Odor,2021-03-05,2021-03-05,Baltimore City,2021-03-05,Incident Closed-Managed,
+567,8127,Lead paint in school,Other,2021-03-04,2021-03-04,Outside of Maryland,2021-03-04,Incident Closed - No further action,
+568,8126,Pollutant from frying pathway,Other,2021-03-01,2021-03-01,Prince Georges,2021-03-01,Incident Closed-Managed,
+569,8125,He smells an industrial odor in the residential neighborhood.,Odor,2021-02-28,2021-02-28,Baltimore City,2021-03-02,Incident Closed-Managed,
+570,8123,He smells an industrial odor in the residential neighborhood.,Odor,2021-02-27,2021-02-27,Baltimore City,2021-03-02,Incident Closed-Managed,
+571,8122,That neighbor is burning plastic with trash causing an odor.,Odor,2021-02-25,2021-02-25,Calvert,2021-03-02,Incident Closed-Managed,
+572,8121,He smells an industrial odor in the residential neighborhood.,Odor,2021-02-24,2021-02-24,Baltimore City,2021-03-02,Incident Closed-Managed,
+573,8120,Rain Runoff/Flooding,Stormwater,2021-03-01,2021-03-01,Allegany,,Referred to WMA,21530
+574,8119,Concerns related to dust inside home created by construction/ renovation.,Fugitive Dust/Particulate Matter,2021-02-25,2021-02-24,Montgomery,2021-03-01,Incident Closed-Managed,20814
+575,8118,Received an email on 3/1/21 that originated as a regional tip /complaint to the EPA email stated. I suspect this and 2 other facilities of causing industrial air pollution in our area. The air is unhealthy.,Air,2021-03-01,,Anne Arundel,2021-03-05,Incident Closed-Managed,21226
+576,8117,Received an email on 3/1/21 that originated as a regional tip/complaint to the EPA. I suspect this facility (along with 2 others) of releasing industrial air pollution. The air is unhealthy.,Air,2021-03-01,,Anne Arundel,2021-03-05,Incident Closed-Managed,21226
+577,8105,Smoke from burning leaves and yard waste.,Air,2021-02-23,2021-02-19,Anne Arundel,,,
+578,8104,gas smell around 3000 lake Ave,Other,2021-02-19,2021-02-19,Prince Georges,2021-02-22,Incident Closed-Managed,
+579,8103,Foul odor in water,Other,2021-02-19,2021-02-19,,2021-02-22,Incident Closed-Managed,
+580,8102,Mold disposal,Other,2021-02-20,2021-02-19,Baltimore,2021-02-19,Incident Closed - No further action,
+581,8101,Concerns that no filtration or improper filtration is in place during auto body paint spraying,Air,2021-02-11,2021-02-10,Montgomery,2021-02-18,Incident Closed-Managed,20879
+582,8100,"Email received with concerns related to open burning at 2000 Dennings Road, New Windsor, Maryland.",Open Burning,2021-02-03,2021-02-03,Carroll,2021-04-15,Incident Closed-Managed,21776
+583,8099,Irrigation Ponds,Other,2021-02-10,2021-02-10,Garrett,,Referred to WMA,21550
+584,8098,He smells an industrial odor in the residential neighborhood.,Odor,2021-02-04,2021-02-04,Baltimore City,2021-02-12,Incident Closed-Managed,
+585,8097,Odor from a manure pile,Odor,2021-02-10,2021-12-10,Baltimore,,Referred to Outside Agency,
+586,8096,"Complaint  Complainant detects a foul odor in the area between his neighborhood, RT. 10 and towards RT. 695.",Air,2021-02-10,2021-02-10,Anne Arundel,2021-02-17,Incident Closed-No Violation Observed,21060
+587,8095,Complaint  Complainant detects a foul odor in the Tanyard Cove neighborhood.,Air,2021-02-11,2021-02-09,Anne Arundel,2021-02-17,Incident Closed-No Violation Observed,21060
+588,8094,Complaint  Complainant detects foul odor in the Tanyard Cove neighborhood located near FT. Smallwood RD and Marley Neck RD,Air,2021-02-11,2021-02-09,Anne Arundel,2021-02-17,Incident Closed-No Violation Observed,21060
+589,8093,"Concerns related to dust, odor, and permit renewal at Rockville Quarry","Fugitive Dust/Particulate Matter, Odor",2021-02-03,2021-02-03,Montgomery,2021-02-10,Incident Closed-Managed,20850
+590,8092,Dust being generated by work/drilling outside of building.,Fugitive Dust/Particulate Matter,2021-02-05,2021-02-05,Montgomery,2021-02-17,Incident Closed - No further action,20902
+591,8090,Odor coming from Flint ink company next door,Odor,2021-02-03,2021-02-03,Howard,,Referred to Outside Agency,21046
+592,8089,That project is creating steam smoke during a renovation,Smoke,2021-01-19,2021-01-19,Baltimore City,2021-02-04,Incident Closed-Managed,
+593,8088,Rental apartment has a mold issue.,ARA AQCP non-regulated entity,2021-01-15,2021-01-15,Baltimore City,2021-02-04,Incident Closed - No further action,
+594,8087,Fumes coming from neighbors house,Fumes,2021-01-27,2021-01-27,Baltimore,2021-02-02,Incident Closed - No further action,
+595,8086,Odor,Odor,2021-01-31,2021-01-31,Baltimore,2022-01-27,Incident Closed-Managed,21222
+596,8085,Odor,Odor,2021-01-29,2021-01-29,Baltimore,2022-01-27,Incident Closed-Managed,21222
+597,8084,Unknown fumes in neighborhood.,Other,2021-02-01,2021-01-29,Baltimore,2021-02-02,Incident Closed - No further action,
+598,8083,Issue at apartment,Other,2021-01-28,2021-01-28,Baltimore,2021-02-01,Incident Closed - No further action,
+599,8082,Complaint  Contractor created dust while repairing door frame on his house.  Dust/silica entered his house vents.,Air,2021-01-29,2021-01-27,Prince Georges,2021-01-29,Incident Closed - No further action,
+600,8081,Complaint  sulfur odor in the area.,Air,2021-01-29,2021-01-27,Anne Arundel,2021-01-29,Incident Closed - No further action,
+601,8080,Smoke from Train,Smoke,2021-01-22,2021-01-02,Allegany,2022-03-11,Incident Closed - No further action,21502
+602,8079,Crushing without a permit,Other,2021-01-26,2021-01-26,Baltimore,2021-02-05,Incident Closed-No Violation Observed,21220
+603,8078,A construction company that supplies equipment is using a crusher without a permit.,Other,2021-01-26,,Baltimore,2022-03-03,Incident Closed-No Violation Observed,
+604,8077,Fumes from nail shop,Other,2021-01-25,2021-01-25,Howard,,Referred to Outside Agency,
+605,8076,Open Burning Issue,Open Burning,2021-01-20,2021-01-20,Washington,2021-01-20,Incident Closed - No further action,
+606,8075,Air Quality concerns around Rockville Quarry.,Air,2021-01-19,2021-01-19,Montgomery,2021-02-10,Incident Closed-Managed,20850
+607,8074,Syrene vapor emissions from manhole in his driveway.  Sewer pipes are being relined in his neighborhood.,Air,2021-01-19,2021-01-13,Anne Arundel,2021-01-22,Incident Closed-No Violation Observed,
+608,8073,HVAC company cutting refrigerant lines and causing freon releases to the atmosphere.,Air,2021-01-19,2021-01-13,Anne Arundel,,Incident Not Applicable to MDE,
+609,8072,Dust Issue from Sudbury Granite & Marble,Other,2021-01-19,2021-01-14,Prince Georges,2021-06-08,Incident Closed-Managed,20747
+610,8071,Odor in basement,Odor,2021-01-11,2021-01-08,Baltimore,2022-01-27,Incident Closed-Managed,21222
+611,8070,Odor complaints in the Dundalk area of Baltimore County,Odor,2021-01-11,2021-01-11,Baltimore,2021-01-11,Incident Closed-Managed,21222
+612,8069,Open burning,Open Burning,2021-01-14,2021-01-13,Caroline,2022-03-08,Incident Closed-Managed,
+613,8068,Black smoke from Wheelabrator smoke stack.,Smoke,2021-01-10,2021-01-10,Baltimore City,2021-01-13,Incident Closed-Managed,21230
+614,8067,That auto shop is painting cars outside.,Odor,2021-01-10,2021-01-10,Baltimore City,2021-01-13,Incident Closed-Managed,
+615,8066,That diesel fumes are in the neighborhood due to a running truck.,Odor,2021-01-09,2021-01-09,Baltimore City,2021-01-13,Incident Closed - No further action,
+616,8063,Poor Air Quality in town home,Other,2021-01-12,2021-01-12,Prince Georges,2021-01-13,Incident Closed-Managed,
+617,8061,Open burning. Smoke.,Air,2021-01-13,2021-01-08,Anne Arundel,2021-01-08,Incident Closed-Managed,
+618,8061,Open burning. Smoke.,Air,2021-01-13,2021-01-08,Anne Arundel,2021-01-08,Incident Closed-Managed,
+619,8060,Strong odor in the area,Odor,2021-01-11,2021-01-11,Prince Georges,2021-01-13,Incident Closed-Managed,
+620,8059,Overspray on site from the paint booth.,Other,2021-01-11,2021-01-11,Harford,2021-01-15,Incident Closed - No further action,21154
+621,8058,Boat company sandblasting boats and blowing white dust into the air.,Fugitive Dust/Particulate Matter,2021-01-11,2021-01-11,Queen Annes,2022-03-08,Incident Closed - No further action,
+622,8057,Smoke and ash from neighbors open burning in his yard.,Air,2021-01-07,2021-01-07,Anne Arundel,2021-01-07,Incident Closed-No Violation Observed,20751
+623,8056,Smoke from neighbors wood burning stove.,Air,2021-01-07,2021-01-04,Charles,,Under Investigation,
+624,8051,Concern of materials being burned in fireplace and outside cooker.  Concern of smoke from the burning.,Air,2021-01-04,2020-12-28,Frederick,2021-01-15,Incident Closed-No Violation Observed,21770
+625,8019,Spice odors coming from McCormicks,Odor,2021-01-09,2020-12-10,Baltimore,2020-12-11,Incident Closed - No further action,
